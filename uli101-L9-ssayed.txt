@@ -1,0 +1,357 @@
+Script started on Thu 14 Nov 2019 09:35:26 PM EST
+]0;ssayed10@mtrx-node03pd:~[?1034h[ssayed10@mtrx-node03pd ~]$ [K[ssayed10@mtrx-node03pd ~]$ date
+Thu Nov 14 21:35:37 EST 2019
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ whoami
+ssayed10
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ $head /etc/services
+bash: /etc/services: Permission denied
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ls /etc
+adjtime                  cron.allow               e2fsck.conf         GREP_COLORS    inputrc           locale.conf               [0m[01;34mmodules-load.d[0m       [01;34mopt[0m             [01;34mprofile.d[0m         [01;34mrsyslog.d[0m      [01;34mssl[0m                 [01;34mtuned[0m
+aliases                  [01;34mcron.d[0m                   [01;34megl[0m                 [01;34mgroff[0m          [01;34miproute2[0m          [01;36mlocaltime[0m                 motd                 os-release      profile.rpmnew    rvmrc          statetab            [01;34mudev[0m
+aliases.db               [01;34mcron.daily[0m               environment         group          issue             login.defs                [01;36mmtab[0m                 [01;34mpam.d[0m           protocols         rwtab          [01;34mstatetab.d[0m          [01;34mudisks2[0m
+[01;34malternatives[0m             cron.deny                ethertypes          group-         issue.net         logrotate.conf            [01;34mmultipath[0m            passwd          [01;34mpython[0m            [01;34mrwtab.d[0m        subgid              vconsole.conf
+anacrontab               [01;34mcron.hourly[0m              exports             [40;31;01mgrub2.cfg[0m      [01;34mjava[0m              [01;34mlogrotate.d[0m               nanorc               passwd-         [01;36mrc0.d[0m             [01;34msasl2[0m          subuid              vimrc
+ant.conf                 [01;34mcron.monthly[0m             [01;34mexports.d[0m           [40;31;01mgrub2-efi.cfg[0m  [01;34mjvm[0m               [01;34mlvm[0m                       netconfig            [01;34mpear[0m            [01;36mrc1.d[0m             sbcl.rc        [01;34msubversion[0m          virc
+[01;34mant.d[0m                    crontab                  [01;34mfail2ban[0m            [01;34mgrub.d[0m         [01;34mjvm-commmon[0m       lynx.cfg                  [01;34mNetworkManager[0m       pear.conf       [01;36mrc2.d[0m             screenrc       sudo.conf           wgetrc
+asound.conf              [01;34mcron.weekly[0m              [01;36mfavicon.png[0m         gshadow        kdump.conf        lynx.lss                  networks             [01;34mphp.d[0m           [01;36mrc3.d[0m             securetty      sudoers             whois.conf
+at.allow                 crypttab                 filesystems         gshadow-       [01;34mkernel[0m            lynx-site.cfg             nfs.conf             php.ini         [01;36mrc4.d[0m             [01;34msecurity[0m       [01;34msudoers.d[0m           [01;34mwpa_supplicant[0m
+[01;34maudisp[0m                   csh.cshrc                [01;34mfirewalld[0m           [01;34mgss[0m            krb5.conf         machine-id                nfsmount.conf        [01;34mphp-zts.d[0m       [01;36mrc5.d[0m             [01;34mselinux[0m        sudoers.rpmnew      [01;34mX11[0m
+[01;34maudit[0m                    csh.login                [01;34mfonts[0m               [01;34mgssproxy[0m       [01;34mkrb5.conf.d[0m       magic                     nscd.conf            [01;34mpkcs11[0m          [01;36mrc6.d[0m             services       sudo-ldap.conf      [01;34mxdg[0m
+bash.bashrc              [01;34mdbus-1[0m                   fstab               host.conf      kshrc             mailcap                   nslcd.conf           [01;34mpki[0m             [01;34mrc.d[0m              sestatus.conf  [01;34msysconfig[0m           [01;34mxinetd.d[0m
+[01;34mbash_completion.d[0m        [01;34mdconf[0m                    [01;34mgconf[0m               hostname       ld.so.cache       mail.rc                   nslcd.conf.apr26     [01;34mplymouth[0m        [01;36mrc.local[0m          [01;34msgml[0m           sysctl.conf         [01;34mxml[0m
+bashrc                   [01;34mdefault[0m                  [01;34mgcrypt[0m              hosts          ld.so.conf        makedumpfile.conf.sample  nslcd.conf.rpmsave   [01;34mpm[0m              [01;36mredhat-release[0m    shadow         [01;34msysctl.d[0m            yp.conf
+[01;34mbinfmt.d[0m                 [01;34mdepmod.d[0m                 gdbinit             hosts.allow    [01;34mld.so.conf.d[0m      man_db.conf               nsswitch.conf        [01;34mpolkit-1[0m        request-key.conf  shadow-        [01;34msystemd[0m             [01;34myum[0m
+centos-release           [01;34mdhcp[0m                     [01;34mgdbinit.d[0m           hosts.deny     libaudit.conf     [01;34mmaven[0m                     nsswitch.conf.apr30  [01;34mpopt.d[0m          [01;34mrequest-key.d[0m     shells         [01;36msystem-release[0m      yum.conf
+centos-release-upstream  DIR_COLORS               GeoIP.conf          [01;34mhttpd[0m          [01;34mlibblockdev[0m       [01;34mmc[0m                        nsswitch.conf.bak    [01;34mpostfix[0m         resolv.conf       shells.rpmnew  system-release-cpe  [01;34myum.repos.d[0m
+[01;34mchkconfig.d[0m              DIR_COLORS.256color      GeoIP.conf.default  idmapd.conf    [01;34mlibnl[0m             [01;34mmercurial[0m                 [01;34mntp[0m                  [01;34mppp[0m             rpc               [01;34mskel[0m           tcsd.conf           zprofile
+chrony.conf              DIR_COLORS.lightbgcolor  [01;34mghostscript[0m         [01;34mImageMagick[0m    [01;34mlibreport[0m         mime.types                ntp.conf             [01;34mprelink.conf.d[0m  [01;34mrpm[0m               smi.conf       [01;34mterminfo[0m
+chrony.keys              dracut.conf              [01;34mglvnd[0m               [01;36minit.d[0m         libuser.conf      mke2fs.conf               odbcinst.ini         printcap        rsyncd.conf       [01;34msnmp[0m           [01;34mtmpfiles.d[0m
+[01;34mcommon-lisp[0m              [01;34mdracut.conf.d[0m            [01;34mgnupg[0m               inittab        lisp-config.lisp  [01;34mmodprobe.d[0m                [01;34mopenldap[0m             profile         rsyslog.conf      [01;34mssh[0m            trusted-key.key
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ who
+asolagan pts/0        2019-11-14 20:20 (72.140.221.150)
+jyoon35  pts/2        2019-11-14 20:15 (99.240.109.108)
+zfarhadli pts/3        2019-11-14 21:33 (99.241.45.54)
+omak     pts/5        2019-11-14 21:03 (99.244.174.120)
+mcjerome pts/6        2019-11-14 21:30 (74.12.10.33)
+ssayed10 pts/7        2019-11-14 21:35 (10.40.13.67)
+ssayed10 pts/8        2019-11-14 21:35
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ date
+Thu Nov 14 21:36:39 EST 2019
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ head /etc/servo[Kices
+# /etc/services:
+# $Id: services,v 1.55 2013/04/14 ovasik Exp $
+#
+# Network services, Internet style
+# IANA services version: last updated 2013-04-10
+#
+# Note that it is presently the policy of IANA to assign a single well-known
+# port number for both TCP and UDP; hence, most entries here have two entries
+# even if the protocol doesn't support UDP operations.
+# Updated from RFC 1700, ``Assigned Numbers'' (October 1994).  Not all ports
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ uname -a
+Linux mtrx-node03pd.dcm.senecacollege.ca 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul 29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ history | tail
+  347  2019-11-07 20:50:44 script uli101-L9-ssayed.txt
+  348  2019-11-14 21:35:37 date
+  349  2019-11-14 21:35:41 whoami
+  350  2019-11-14 21:36:00 $head /etc/services
+  351  2019-11-14 21:36:23 ls /etc
+  352  2019-11-14 21:36:31 who
+  353  2019-11-14 21:36:39 date
+  354  2019-11-14 21:36:55 head /etc/services
+  355  2019-11-14 21:37:12 uname -a
+  356  2019-11-14 21:37:31 history | tail
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ !351
+ls /etc
+adjtime                  cron.allow               e2fsck.conf         GREP_COLORS    inputrc           locale.conf               [0m[01;34mmodules-load.d[0m       [01;34mopt[0m             [01;34mprofile.d[0m         [01;34mrsyslog.d[0m      [01;34mssl[0m                 [01;34mtuned[0m
+aliases                  [01;34mcron.d[0m                   [01;34megl[0m                 [01;34mgroff[0m          [01;34miproute2[0m          [01;36mlocaltime[0m                 motd                 os-release      profile.rpmnew    rvmrc          statetab            [01;34mudev[0m
+aliases.db               [01;34mcron.daily[0m               environment         group          issue             login.defs                [01;36mmtab[0m                 [01;34mpam.d[0m           protocols         rwtab          [01;34mstatetab.d[0m          [01;34mudisks2[0m
+[01;34malternatives[0m             cron.deny                ethertypes          group-         issue.net         logrotate.conf            [01;34mmultipath[0m            passwd          [01;34mpython[0m            [01;34mrwtab.d[0m        subgid              vconsole.conf
+anacrontab               [01;34mcron.hourly[0m              exports             [40;31;01mgrub2.cfg[0m      [01;34mjava[0m              [01;34mlogrotate.d[0m               nanorc               passwd-         [01;36mrc0.d[0m             [01;34msasl2[0m          subuid              vimrc
+ant.conf                 [01;34mcron.monthly[0m             [01;34mexports.d[0m           [40;31;01mgrub2-efi.cfg[0m  [01;34mjvm[0m               [01;34mlvm[0m                       netconfig            [01;34mpear[0m            [01;36mrc1.d[0m             sbcl.rc        [01;34msubversion[0m          virc
+[01;34mant.d[0m                    crontab                  [01;34mfail2ban[0m            [01;34mgrub.d[0m         [01;34mjvm-commmon[0m       lynx.cfg                  [01;34mNetworkManager[0m       pear.conf       [01;36mrc2.d[0m             screenrc       sudo.conf           wgetrc
+asound.conf              [01;34mcron.weekly[0m              [01;36mfavicon.png[0m         gshadow        kdump.conf        lynx.lss                  networks             [01;34mphp.d[0m           [01;36mrc3.d[0m             securetty      sudoers             whois.conf
+at.allow                 crypttab                 filesystems         gshadow-       [01;34mkernel[0m            lynx-site.cfg             nfs.conf             php.ini         [01;36mrc4.d[0m             [01;34msecurity[0m       [01;34msudoers.d[0m           [01;34mwpa_supplicant[0m
+[01;34maudisp[0m                   csh.cshrc                [01;34mfirewalld[0m           [01;34mgss[0m            krb5.conf         machine-id                nfsmount.conf        [01;34mphp-zts.d[0m       [01;36mrc5.d[0m             [01;34mselinux[0m        sudoers.rpmnew      [01;34mX11[0m
+[01;34maudit[0m                    csh.login                [01;34mfonts[0m               [01;34mgssproxy[0m       [01;34mkrb5.conf.d[0m       magic                     nscd.conf            [01;34mpkcs11[0m          [01;36mrc6.d[0m             services       sudo-ldap.conf      [01;34mxdg[0m
+bash.bashrc              [01;34mdbus-1[0m                   fstab               host.conf      kshrc             mailcap                   nslcd.conf           [01;34mpki[0m             [01;34mrc.d[0m              sestatus.conf  [01;34msysconfig[0m           [01;34mxinetd.d[0m
+[01;34mbash_completion.d[0m        [01;34mdconf[0m                    [01;34mgconf[0m               hostname       ld.so.cache       mail.rc                   nslcd.conf.apr26     [01;34mplymouth[0m        [01;36mrc.local[0m          [01;34msgml[0m           sysctl.conf         [01;34mxml[0m
+bashrc                   [01;34mdefault[0m                  [01;34mgcrypt[0m              hosts          ld.so.conf        makedumpfile.conf.sample  nslcd.conf.rpmsave   [01;34mpm[0m              [01;36mredhat-release[0m    shadow         [01;34msysctl.d[0m            yp.conf
+[01;34mbinfmt.d[0m                 [01;34mdepmod.d[0m                 gdbinit             hosts.allow    [01;34mld.so.conf.d[0m      man_db.conf               nsswitch.conf        [01;34mpolkit-1[0m        request-key.conf  shadow-        [01;34msystemd[0m             [01;34myum[0m
+centos-release           [01;34mdhcp[0m                     [01;34mgdbinit.d[0m           hosts.deny     libaudit.conf     [01;34mmaven[0m                     nsswitch.conf.apr30  [01;34mpopt.d[0m          [01;34mrequest-key.d[0m     shells         [01;36msystem-release[0m      yum.conf
+centos-release-upstream  DIR_COLORS               GeoIP.conf          [01;34mhttpd[0m          [01;34mlibblockdev[0m       [01;34mmc[0m                        nsswitch.conf.bak    [01;34mpostfix[0m         resolv.conf       shells.rpmnew  system-release-cpe  [01;34myum.repos.d[0m
+[01;34mchkconfig.d[0m              DIR_COLORS.256color      GeoIP.conf.default  idmapd.conf    [01;34mlibnl[0m             [01;34mmercurial[0m                 [01;34mntp[0m                  [01;34mppp[0m             rpc               [01;34mskel[0m           tcsd.conf           zprofile
+chrony.conf              DIR_COLORS.lightbgcolor  [01;34mghostscript[0m         [01;34mImageMagick[0m    [01;34mlibreport[0m         mime.types                ntp.conf             [01;34mprelink.conf.d[0m  [01;34mrpm[0m               smi.conf       [01;34mterminfo[0m
+chrony.keys              dracut.conf              [01;34mglvnd[0m               [01;36minit.d[0m         libuser.conf      mke2fs.conf               odbcinst.ini         printcap        rsyncd.conf       [01;34msnmp[0m           [01;34mtmpfiles.d[0m
+[01;34mcommon-lisp[0m              [01;34mdracut.conf.d[0m            [01;34mgnupg[0m               inittab        lisp-config.lisp  [01;34mmodprobe.d[0m                [01;34mopenldap[0m             profile         rsyslog.conf      [01;34mssh[0m            trusted-key.key
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ histor | tail
+bash: histor: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ histor | tail[C[1@u[1P[1@y[C[C[C[C[C[C[C
+  350  2019-11-14 21:36:00 $head /etc/services
+  351  2019-11-14 21:36:23 ls /etc
+  352  2019-11-14 21:36:31 who
+  353  2019-11-14 21:36:39 date
+  354  2019-11-14 21:36:55 head /etc/services
+  355  2019-11-14 21:37:12 uname -a
+  356  2019-11-14 21:37:31 history | tail
+  357  2019-11-14 21:38:07 ls /etc
+  358  2019-11-14 21:39:06 histor | tail
+  359  2019-11-14 21:39:19 history | tail
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ! -4
+bash: -4: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ !-3
+histor | tail
+bash: histor: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ histor | tail! -4[Khistory | tail
+  353  2019-11-14 21:36:39 date
+  354  2019-11-14 21:36:55 head /etc/services
+  355  2019-11-14 21:37:12 uname -a
+  356  2019-11-14 21:37:31 history | tail
+  357  2019-11-14 21:38:07 ls /etc
+  358  2019-11-14 21:39:06 histor | tail
+  359  2019-11-14 21:39:19 history | tail
+  360  2019-11-14 21:40:16 ! -4
+  361  2019-11-14 21:40:40 histor | tail
+  362  2019-11-14 21:41:36 history | tail
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ! -8
+bash: -8: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ !-3
+histor | tail
+bash: histor: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ !-5
+! -4
+bash: -4: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ! -10
+bash: -10: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ si[K[K! -10[1P4histor | tail! -8[Khistor | tail! -8[Khistory | tail
+  358  2019-11-14 21:39:06 histor | tail
+  359  2019-11-14 21:39:19 history | tail
+  360  2019-11-14 21:40:16 ! -4
+  361  2019-11-14 21:40:40 histor | tail
+  362  2019-11-14 21:41:36 history | tail
+  363  2019-11-14 21:42:16 ! -8
+  364  2019-11-14 21:42:30 histor | tail
+  365  2019-11-14 21:42:39 ! -4
+  366  2019-11-14 21:43:25 ! -10
+  367  2019-11-14 21:48:25 history | tail
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ uname -a
+Linux mtrx-node03pd.dcm.senecacollege.ca 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul 29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ history | r[Ktail
+  360  2019-11-14 21:40:16 ! -4
+  361  2019-11-14 21:40:40 histor | tail
+  362  2019-11-14 21:41:36 history | tail
+  363  2019-11-14 21:42:16 ! -8
+  364  2019-11-14 21:42:30 histor | tail
+  365  2019-11-14 21:42:39 ! -4
+  366  2019-11-14 21:43:25 ! -10
+  367  2019-11-14 21:48:25 history | tail
+  368  2019-11-14 21:48:56 uname -a
+  369  2019-11-14 21:49:10 history | tail
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ! -56
+bash: -56: command not found
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ !-3
+uname -a
+Linux mtrx-node03pd.dcm.senecacollege.ca 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul 29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ !!
+uname -a
+Linux mtrx-node03pd.dcm.senecacollege.ca 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul 29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ 4[K!head
+head /etc/services
+# /etc/services:
+# $Id: services,v 1.55 2013/04/14 ovasik Exp $
+#
+# Network services, Internet style
+# IANA services version: last updated 2013-04-10
+#
+# Note that it is presently the policy of IANA to assign a single well-known
+# port number for both TCP and UDP; hence, most entries here have two entries
+# even if the protocol doesn't support UDP operations.
+# Updated from RFC 1700, ``Assigned Numbers'' (October 1994).  Not all ports
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ alias d=''d'a'r'[1P't'e'[C
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ d
+Thu Nov 14 21:50:56 EST 2019
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ alias d
+alias d='date'
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ alias ls=''l'a'[1P's' '-'l'[C
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ls
+total 316
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:39 aa bb
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:44 aa bb.bak
+-rwxr--r-- 1 ssayed10 users   146 Nov  7 20:43 cptobak
+-rw-r--r-- 1 ssayed10 users    57 Oct 17 19:12 days
+-r--r--r-- 1 ssayed10 users     0 Oct  3 14:05 dog
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:08 first
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:37 first.bak
+-rw-r--r-- 1 ssayed10 users     9 Oct 17 19:09 hi.file
+-rw-r--r-- 1 ssayed10 users     0 Oct 17 19:14 ls.big
+-rw-r--r-- 1 ssayed10 users  1899 Oct 17 19:10 ls.out
+-rw-r--r-- 1 ssayed10 users   975 Oct 17 19:10 ls.output
+-rwxrwxrwx 1 ssayed10 users   152 Nov  7 21:09 mine
+-rw-r--r-- 1 ssayed10 users   230 Oct 24 19:31 pizza
+-rw-r--r-- 1 ssayed10 users    51 Oct  2 13:26 practice
+-rw-r--r-- 1 ssayed10 users 24576 Oct 26 13:27 practice.txt
+drwx---r-x 3 ssayed10 users    39 May  2  2018 public_html
+-rw-r--r-- 1 ssayed10 users    67 Oct 26 13:25 shabnoor
+-rwxr--r-- 1 ssayed10 users    89 Nov  7 20:02 short
+drwxr-xr-x 2 ssayed10 users    44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users 16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   797 Oct  9 01:58 uli101-L6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  5726 Oct 17 19:14 uli101-l6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16792 Oct 24 19:31 uli101-L7-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 64035 Nov  7 20:44 uli101-L8-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16384 Nov 14 21:43 uli101-L9-ssayed.txt
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ \ls
+aa bb	   cptobak  dog    first.bak  ls.big  ls.output  pizza	   practice.txt  shabnoor  two			 uli101-L2-ssayed.txt  uli101-L4-ssayed.txt  uli101-L6-ssayed.txt  uli101-L7-ssayed.txt  uli101-L9-ssayed.txt
+aa bb.bak  days     first  hi.file    ls.out  mine	 practice  public_html	 short	   uli101-L1-ssayed.txt  uli101-L3-ssayed.txt  uli101-L5-ssayed.txt  uli101-l6-ssayed.txt  uli101-L8-ssayed.txt
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ unalias ls
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ls
+aa bb	   cptobak  dog    first.bak  ls.big  ls.output  pizza	   practice.txt  shabnoor  two			 uli101-L2-ssayed.txt  uli101-L4-ssayed.txt  uli101-L6-ssayed.txt  uli101-L7-ssayed.txt  uli101-L9-ssayed.txt
+aa bb.bak  days     first  hi.file    ls.out  mine	 practice  public_html	 short	   uli101-L1-ssayed.txt  uli101-L3-ssayed.txt  uli101-L5-ssayed.txt  uli101-l6-ssayed.txt  uli101-L8-ssayed.txt
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ~/.bash.rc[1Prc[C[C
+bash: /home/ssayed10/.bashrc: Permission denied
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ $[Kwelcome () {}[Ce}c}h}o} }"}"}[CW"}e"}l"}c"}o"}m"}e"} "}t"}o"} "}m"}y"} "}C"}o"}m"}p"}u"}t"}e"}r"}[C."}[C;} }[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ welcome
+Welcome to my Computer.
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){}
+bash: syntax error near unexpected token `{}'
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){}d}a}t}e};}l}s} }-}l};}[C
+bash: syntax error near unexpected token `{date'
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){date;ls -l;}[1P;}[1P;}[1P;}[1P;}[1P;}[1P}[1P;}[1P;}[1P;}[1P;}[C[1P}
+bash: syntax error near unexpected token `{}'
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){}>}d}a}t}e}>}l}s} }-}l}[C
+> function long(){>date>ls -l}[C[C[K
+> 
+> bash: syntax error: unexpected end of file
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){>date>ls -l}; [1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[1P[C[1P[C[1P d a t e [C l a s - l [C 
+bash: syntax error near unexpected token `{date'
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){date las-l  [1@;[1@}
+bash: syntax error near unexpected token `{date'
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){date las-l;}  [1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C
+bash: syntax error near unexpected token `{}'
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){}  [1@>[1@d[1@a[1@t[1@e
+> d[Kbash: syntax error: unexpected end of file
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ function long(){>date}  [1P
+> ls -l
+> }
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ long
+total 316
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:39 aa bb
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:44 aa bb.bak
+-rwxr--r-- 1 ssayed10 users   146 Nov  7 20:43 cptobak
+-rw-r--r-- 1 ssayed10 users     0 Nov 14 22:03 date
+-rw-r--r-- 1 ssayed10 users    57 Oct 17 19:12 days
+-r--r--r-- 1 ssayed10 users     0 Oct  3 14:05 dog
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:08 first
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:37 first.bak
+-rw-r--r-- 1 ssayed10 users     9 Oct 17 19:09 hi.file
+-rw-r--r-- 1 ssayed10 users     0 Oct 17 19:14 ls.big
+-rw-r--r-- 1 ssayed10 users  1899 Oct 17 19:10 ls.out
+-rw-r--r-- 1 ssayed10 users   975 Oct 17 19:10 ls.output
+-rwxrwxrwx 1 ssayed10 users   152 Nov  7 21:09 mine
+-rw-r--r-- 1 ssayed10 users   230 Oct 24 19:31 pizza
+-rw-r--r-- 1 ssayed10 users    51 Oct  2 13:26 practice
+-rw-r--r-- 1 ssayed10 users 24576 Oct 26 13:27 practice.txt
+drwx---r-x 3 ssayed10 users    39 May  2  2018 public_html
+-rw-r--r-- 1 ssayed10 users    67 Oct 26 13:25 shabnoor
+-rwxr--r-- 1 ssayed10 users    89 Nov  7 20:02 short
+drwxr-xr-x 2 ssayed10 users    44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users 16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   797 Oct  9 01:58 uli101-L6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  5726 Oct 17 19:14 uli101-l6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16792 Oct 24 19:31 uli101-L7-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 64035 Nov  7 20:44 uli101-L8-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16384 Nov 14 21:43 uli101-L9-ssayed.txt
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ~/.bash_profile
+bash: /home/ssayed10/.bash_profile: Permission denied
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ car [K[Kt ~/.bash_profile[1P/.bash_profile[C[1P.bash_profilec.bash_profilea.bash_profilet.bash_profile .bash_profile[C[C[C[C[C[C[C[C[C[C[C[C[C
+# .bash_profile
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+	. ~/.bashrc
+fi
+
+# User specific environment and startup programs
+
+PATH=$PATH:$HOME/.local/bin:$HOME/bin
+
+export PATH
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ ~/ .basg[Khrc
+bash: /home/ssayed10/: Is a directory
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ source ~/ .baschrc
+bash: source: /home/ssayed10/: is a directory
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ long ~/ ,[K.bashrc
+total 324
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:39 aa bb
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:44 aa bb.bak
+-rwxr--r-- 1 ssayed10 users   146 Nov  7 20:43 cptobak
+-rw-r--r-- 1 ssayed10 users     0 Nov 14 22:03 date
+-rw-r--r-- 1 ssayed10 users    57 Oct 17 19:12 days
+-r--r--r-- 1 ssayed10 users     0 Oct  3 14:05 dog
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:08 first
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:37 first.bak
+-rw-r--r-- 1 ssayed10 users     9 Oct 17 19:09 hi.file
+-rw-r--r-- 1 ssayed10 users     0 Oct 17 19:14 ls.big
+-rw-r--r-- 1 ssayed10 users  1899 Oct 17 19:10 ls.out
+-rw-r--r-- 1 ssayed10 users   975 Oct 17 19:10 ls.output
+-rwxrwxrwx 1 ssayed10 users   152 Nov  7 21:09 mine
+-rw-r--r-- 1 ssayed10 users   230 Oct 24 19:31 pizza
+-rw-r--r-- 1 ssayed10 users    51 Oct  2 13:26 practice
+-rw-r--r-- 1 ssayed10 users 24576 Oct 26 13:27 practice.txt
+drwx---r-x 3 ssayed10 users    39 May  2  2018 public_html
+-rw-r--r-- 1 ssayed10 users    67 Oct 26 13:25 shabnoor
+-rwxr--r-- 1 ssayed10 users    89 Nov  7 20:02 short
+drwxr-xr-x 2 ssayed10 users    44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users 16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   797 Oct  9 01:58 uli101-L6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  5726 Oct 17 19:14 uli101-l6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16792 Oct 24 19:31 uli101-L7-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 64035 Nov  7 20:44 uli101-L8-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 24576 Nov 14 22:03 uli101-L9-ssayed.txt
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ long ~/ .bash_profile
+total 324
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:39 aa bb
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:44 aa bb.bak
+-rwxr--r-- 1 ssayed10 users   146 Nov  7 20:43 cptobak
+-rw-r--r-- 1 ssayed10 users     0 Nov 14 22:03 date
+-rw-r--r-- 1 ssayed10 users    57 Oct 17 19:12 days
+-r--r--r-- 1 ssayed10 users     0 Oct  3 14:05 dog
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:08 first
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:37 first.bak
+-rw-r--r-- 1 ssayed10 users     9 Oct 17 19:09 hi.file
+-rw-r--r-- 1 ssayed10 users     0 Oct 17 19:14 ls.big
+-rw-r--r-- 1 ssayed10 users  1899 Oct 17 19:10 ls.out
+-rw-r--r-- 1 ssayed10 users   975 Oct 17 19:10 ls.output
+-rwxrwxrwx 1 ssayed10 users   152 Nov  7 21:09 mine
+-rw-r--r-- 1 ssayed10 users   230 Oct 24 19:31 pizza
+-rw-r--r-- 1 ssayed10 users    51 Oct  2 13:26 practice
+-rw-r--r-- 1 ssayed10 users 24576 Oct 26 13:27 practice.txt
+drwx---r-x 3 ssayed10 users    39 May  2  2018 public_html
+-rw-r--r-- 1 ssayed10 users    67 Oct 26 13:25 shabnoor
+-rwxr--r-- 1 ssayed10 users    89 Nov  7 20:02 short
+drwxr-xr-x 2 ssayed10 users    44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users 16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   797 Oct  9 01:58 uli101-L6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  5726 Oct 17 19:14 uli101-l6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16792 Oct 24 19:31 uli101-L7-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 64035 Nov  7 20:44 uli101-L8-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 24576 Nov 14 22:03 uli101-L9-ssayed.txt
+]0;ssayed10@mtrx-node03pd:~[ssayed10@mtrx-node03pd ~]$ exit
+
+Script done on Thu 14 Nov 2019 10:15:26 PM EST

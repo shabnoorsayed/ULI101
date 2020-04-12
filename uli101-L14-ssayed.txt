@@ -1,0 +1,281 @@
+Script started on Thu 05 Dec 2019 04:21:00 PM EST
+]0;ssayed10@mtrx-node04pd:~[?1034h[ssayed10@mtrx-node04pd ~]$ ehoami[1Phoamiwhoami[C[C[C[C[C
+ssayed10
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ date
+Thu Dec  5 16:21:12 EST 2019
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ [K[ssayed10@mtrx-node04pd ~]$ vim food
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"food" [New File][>c[2;1H[1m[34m~                                                                                 [3;1H~                                                                                 [4;1H~                                                                                 [5;1H~                                                                                 [6;1H~                                                                                 [7;1H~                                                                                 [8;1H~                                                                                 [9;1H~                                                                                 [10;1H~                                                                                 [11;1H~                                                                                 [12;1H~                                                                                 [13;1H~                                                                                 [14;1H~                                                                                 [15;1H~                                                                                 [16;1H~                                                                                 [17;1H~                                                                                 [18;1H~                                                                                 [19;1H~                                                                                 [20;1H~                                                                                 [21;1H~                                                                                 [22;1H~                                                                                 [23;1H~                                                                                 [24;1H~                                                                                 [25;1H~                                                                                 [26;1H~                                                                                 [27;1H~                                                                                 [28;1H~                                                                                 [29;1H~                                                                                 [30;1H~                                                                                 [31;1H~                                                                                 [32;1H~                                                                                 [33;1H~                                                                                 [34;1H~                                                                                 [35;1H~                                                                                 [36;1H~                                                                                 [37;1H~                                                                                 [38;1H~                                                                                 [39;1H~                                                                                 [40;1H~                                                                                 [41;1H~                                                                                 [42;1H~                                                                                 [m[43;65H0,0-1[9CAll[1;1H[?12l[?25h[?25l[43;1H[1m-- INSERT --[m[43;13H[K[43;65H0,1[11CAll[1;1H[?12l[?25h[?25lt[43;65H1,2[1;2H[?12l[?25h[?25lu[43;67H3[1;3H[?12l[?25h[?25ln[43;67H4[1;4H[?12l[?25h[?25la[43;67H5[1;5H[?12l[?25h[?25l[43;67H6[1;6H[?12l[?25h[?25ls[43;67H7[1;7H[?12l[?25h[?25la[43;67H8[1;8H[?12l[?25h[?25ll[43;67H9[1;9H[?12l[?25h[?25la[43;67H10[1;10H[?12l[?25h[?25ld[43;68H1[1;11H[?12l[?25h[?25l[43;68H2[1;12H[?12l[?25h[?25l[43;68H3[1;13H[?12l[?25h[?25l[43;68H4[1;14H[?12l[?25h[?25l[43;68H5[1;15H[?12l[?25h[43;1H[K[?25l[43;65H1,14[10CAll[1;14H[?12l[?25h[?25l[43;1H[1m-- INSERT --[m[43;65H[K[43;65H1,1[11CTop[1;42r[1;1H[L[1;43r[1;1Hr[43;65H[K[43;65H1,2[11CAll[1;2H[?12l[?25h[?25l[1;1H[K[43;67H1[1;1H[?12l[?25h[?25l[43;65H2[2;1H[?12l[?25h[?25l[43;67H2[2;2H[?12l[?25h[?25l[43;67H3[2;3H[?12l[?25h[?25l[43;67H4[2;4H[?12l[?25h[?25l[43;67H5[2;5H[?12l[?25h[?25l[43;67H6[2;6H[?12l[?25h[?25l[43;67H7[2;7H[?12l[?25h[?25l[43;67H8[2;8H[?12l[?25h[?25l[43;67H9[2;9H[?12l[?25h[?25l[43;67H10[2;10H[?12l[?25h[?25l[43;68H1[2;11H[?12l[?25h[?25l[43;68H2[2;12H[?12l[?25h[?25l[43;68H3[2;13H[?12l[?25h[?25l[43;68H4[2;14H[?12l[?25h[43;1H[K[?25l[43;65H2,13[10CAll[2;13H[?12l[?25h[?25l[43;1H[1m-- INSERT --[m[43;65H[K[43;65H2,1[11CTop[2;42r[2;1H[L[1;43r[2;1Hr[43;65H[K[43;65H2,2[11CAll[2;2H[?12l[?25h[?25l[2;1H[K[43;67H1[2;1H[?12l[?25h[?25l[1;42r[42;1H
+[1;43r[42;1H[1m[34m~                                                                                 [m[43;65H[K[43;65H1,1[11CAll[1;1H[?12l[?25h[?25l[43;65H2[2;1H[?12l[?25h[?25l[1;1Htuna salad
+[1m[34m~                                                                                 [m[43;65H1[1;1H[?12l[?25h[?25l[43;67H2[1;2H[?12l[?25h[?25l[43;67H3[1;3H[?12l[?25h[?25l[43;67H4[1;4H[?12l[?25h[?25l[43;67H5[1;5H[?12l[?25h[?25l[43;67H6[1;6H[?12l[?25h[?25l[43;67H7[1;7H[?12l[?25h[?25l[43;67H8[1;8H[?12l[?25h[?25l[43;67H9[1;9H[?12l[?25h[?25l[43;67H10[1;10H[?12l[?25h[?25l[43;68H1[1;11H[?12l[?25h[?25l[43;68H2[1;12H[?12l[?25h[?25l[43;68H3[1;13H[?12l[?25h[?25l2[43;68H4[1;14H[?12l[?25h[?25l.[43;68H5[1;15H[?12l[?25h[?25l[43;1H[K[43;1H"help.txt" [readonly] 221L, 8249C[1;1H[31mhelp.txt[m        For [36mVim version 7.4.[m  Last change: 2012 Dec 06[2;1H[K[3;1H                        VIM - main help file[3;45H[K[4;1H                                                                         k[4;75H[K[5;1H      Move around:  Use the cursor keys, or "h" to go left,            h   l[5;77H[K[6;1H                    "j" to go down, "k" to go up, "l" to go right.       j[6;75H[K[7;1HClose this window:  Use ":q[35m<Enter>[m".[7;37H[K[8;1H   Get out of Vim:  Use ":qa![35m<Enter>[m" (careful, all changes are lost!).[8;72H[K[9;1H[K[10;1HJump to a subject:  Position the cursor on a tag (e.g. [36mbars[m) and hit [35mCTRL-][m.[10;77H[K[11;1H   With the mouse:  ":set mouse=a" to enable the mouse (in xterm or GUI).[11;74H[K[12;1H                    Double-click the left mouse button on a tag, e.g. [36mbars[m.[12;76H[K[13;1H        Jump back:  Type [35mCTRL-T[m or [35mCTRL-O[m (repeat to go further back).[13;71H[K[14;1H[K[15;1HGet specific help:  It is possible to go directly to whatever you want help[15;76H[K[16;1H                    on, by giving an argument to the [36m:help[m command.[16;68H[K[17;1H                    It is possible to further specify the context:[17;67H[K[18;1H                                                        [31mhelp-context[m[18;69H[K[19;1H                          [35mWHAT                  PREPEND    EXAMPLE[m[19;67H[K[20;1H                      Normal mode command      (nothing)   :help x[20;67H[K[21;1H[1m[7mhelp.txt [Help][RO]                                             1,1            Top[m[22;1Htuna salad  2.       [22;22H[K[42;1H[7mfood [+]                                                        1,14           All[1;1H[?12l[?25h[1;1H[?25l[m[43;1H[1m[37m[41mE21: Cannot make changes, 'modifiable' is off[1;1H[?12l[?25h[?25l[1;1H[?12l[?25h[?25l[1;1H[?12l[?25h[?25l[m[21;65H[1m[7m2,0-1[2;1H[?12l[?25h[?25l[21;65H3,1-8 [3;8H[?12l[?25h[?25l[21;65H4,[4;8H[?12l[?25h[?25l[21;65H5,1   [5;1H[?12l[?25h[?25l[21;65H6,1-8[6;8H[?12l[?25h[?25l[21;65H7,1   [7;1H[?12l[?25h[?25l[21;65H8,[8;1H[?12l[?25h[?25l[21;65H9,0-1[9;1H[?12l[?25h[?25l[21;65H10,1  [10;1H[?12l[?25h[?25l[21;66H1,[11;1H[?12l[?25h[?25l[21;66H2,1-8[12;8H[?12l[?25h[?25l[21;66H3,[13;8H[?12l[?25h[?25l[21;66H4,0-1 [14;1H[?12l[?25h[?25l[21;66H5,1   [15;1H[?12l[?25h[?25l[21;66H6,1-8[16;8H[?12l[?25h[?25l[21;66H7,[17;8H[?12l[?25h[?25l[21;66H8,[18;8H[?12l[?25h[?25l[21;66H9,[19;8H[?12l[?25h[?25l[21;65H20,[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;23HVisual mode command[9Cv_[7C:help v_u[43;1H[K[21;66H[1m[7m1,[12C 0%[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;23HInsert mode command[9Ci_[7C:help i_[35m<Esc>[m[21;66H[1m[7m2,[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;23HCommand-line command[8C:[8C:help :quit[21;66H[1m[7m3,[13C1%[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;23HCommand-line editing[8Cc_[7C:help c_[35m<Del>[m[21;66H[1m[7m4,[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;23HVim command argument[8C-[8C:help -r[21;66H[1m[7m5,[13C2%[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;23HOption[22C'[8C:help [32m'textwidth'[m[21;66H[1m[7m6,[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;3HSearch for help:  Type ":help word", then hit [35mCTRL-D[m to see matching[21;66H[1m[7m7,1   [9C3%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;21Hhelp entries for "word".[21;66H[1m[7m8,1-8[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;21HOr use ":helpgrep word". [36m:helpgrep[m[21;66H[1m[7m9,[13C4%[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;65H[1m[7m30,0-1 [20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1HVIM stands for Vi IMproved.  Most of VIM was made by Bram Moolenaar, but only[21;66H[1m[7m1,1   [9C5%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1Hthrough the help of many others.  See [36mcredits[m.[21;66H[1m[7m2,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[35m------------------------------------------------------------------------------[m[21;66H[1m[7m3,[13C6%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;49H[31mdoc-file-list[m [31mQ_ct[m[21;66H[1m[7m4,1-8[20;8H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1HBASIC:[21;66H[1m[7m5,1   [9C7%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36mquickref[m[8COverview of the most common commands you will use[21;66H[1m[7m6,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36mtutor[m[11C30 minutes training course for beginners[21;66H[1m[7m7,[13C8%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36mcopying[m[9CAbout copyrights[21;66H[1m[7m8,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36miccf[m[12CHelping poor children in Uganda[21;66H[1m[7m9,[13C9%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36msponsor[m[9CSponsor Vim development, become a registered Vim user[21;65H[1m[7m40,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36mwww[m[13CVim on the World Wide Web[21;66H[1m[7m1,[12C10%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36mbugs[m[12CWhere to send bug reports[21;66H[1m[7m2,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m3,0-1[10C1%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1HUSER MANUAL: These files explain how to accomplish an editing task.[21;66H[1m[7m4,1   [20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m5,0-1[10C2%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_toc.txt[m     Table Of Contents[21;66H[1m[7m6,1   [20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m7,0-1[10C3%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[35mGetting Started[m[21;66H[1m[7m8,1   [20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_01.txt[m  About the manuals[21;66H[1m[7m9,[13C4%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_02.txt[m  The first steps in Vim[21;65H[1m[7m50,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_03.txt[m  Moving around[21;66H[1m[7m1,[13C5%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_04.txt[m  Making small changes[21;66H[1m[7m2,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_05.txt[m  Set your settings[21;66H[1m[7m3,[13C6%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_06.txt[m  Using syntax highlighting[21;66H[1m[7m4,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_07.txt[m  Editing more than one file[21;66H[1m[7m5,[13C7%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_08.txt[m  Splitting windows[21;66H[1m[7m6,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_09.txt[m  Using the GUI[21;66H[1m[7m7,[13C8%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_10.txt[m  Making big changes[21;66H[1m[7m8,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_11.txt[m  Recovering from a crash[21;66H[1m[7m9,[13C9%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_12.txt[m  Clever tricks[21;65H[1m[7m60,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m1,0-1[9C20%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[35mEditing Effectively[m[21;66H[1m[7m2,1   [20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_20.txt[m  Typing command-line commands quickly[21;66H[1m[7m3,[13C1%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_21.txt[m  Go away and come back[21;66H[1m[7m4,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_22.txt[m  Finding the file to edit[21;66H[1m[7m5,[13C2%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_23.txt[m  Editing other files[21;66H[1m[7m6,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_24.txt[m  Inserting quickly[21;66H[1m[7m7,[13C3%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_25.txt[m  Editing formatted text[21;66H[1m[7m8,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_26.txt[m  Repeating[21;66H[1m[7m9,[13C4%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_27.txt[m  Search commands and patterns[21;65H[1m[7m70,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_28.txt[m  Folding[21;66H[1m[7m1,[13C5%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_29.txt[m  Moving through programs[21;66H[1m[7m2,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_30.txt[m  Editing programs[21;66H[1m[7m3,[13C6%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_31.txt[m  Exploiting the GUI[21;66H[1m[7m4,[20;1H[?12l[?25h[?25l[21;68H2 [20;1H[?12l[?25h[?25l[21;68H3 [20;2H[?12l[?25h[?25l[21;68H4 [20;3H[?12l[?25h[?25l[21;68H5 [20;4H[?12l[?25h[?25l[21;68H6 [20;5H[?12l[?25h[?25l[21;68H7 [20;6H[?12l[?25h[?25l[21;68H8 [20;7H[?12l[?25h[?25l[21;68H9 [20;8H[?12l[?25h[?25l[21;68H10[20;9H[?12l[?25h[?25l[21;69H1 [20;10H[?12l[?25h[?25l[21;69H2 [20;11H[?12l[?25h[?25l[21;69H3 [20;11H[?12l[?25h[?25l[21;69H4 [20;12H[?12l[?25h[?25l[21;69H5 [20;13H[?12l[?25h[?25l[21;69H6 [20;14H[?12l[?25h[?25l[21;69H7 [20;15H[?12l[?25h[?25l[21;69H8 [20;16H[?12l[?25h[?25l[21;69H9 [20;17H[?12l[?25h[?25l[21;68H20 [20;18H[?12l[?25h[?25l[21;69H1 [20;19H[?12l[?25h[?25l[21;69H2 [20;20H[?12l[?25h[?25l[21;69H3 [20;21H[?12l[?25h[?25l[21;69H4 [20;22H[?12l[?25h[?25l[21;69H5 [20;23H[?12l[?25h[?25l[21;69H6 [20;24H[?12l[?25h[?25l[21;69H7 [20;25H[?12l[?25h[?25l[21;69H8 [20;26H[?12l[?25h[?25l[21;69H9 [20;27H[?12l[?25h[?25l[21;68H30 [20;28H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_32.txt[m  The undo tree[21;66H[1m[7m5,27 [10C7%[20;25H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m6,0-1[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[35mTuning Vim[m[21;66H[1m[7m7,12  [9C8%[20;11H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_40.txt[m  Make new commands[21;66H[1m[7m8,30 [20;28H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_41.txt[m  Write a Vim script[21;66H[1m[7m9,[13C9%[20;28H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_42.txt[m  Add new menus[21;65H[1m[7m80,27 [20;25H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_43.txt[m  Using filetypes[21;66H[1m[7m1,29 [9C30%[20;27H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_44.txt[m  Your own syntax highlighted[21;66H[1m[7m2,30 [20;28H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_45.txt[m  Select your language[21;66H[1m[7m3,[13C1%[20;28H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m4,0-1[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[35mMaking Vim Run[m[21;66H[1m[7m5,16  [9C2%[20;15H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36musr_90.txt[m  Installing Vim[21;66H[1m[7m6,28 [20;26H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m7,0-1[10C3%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;66H[1m[7m8,[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1HREFERENCE MANUAL: These files explain every detail of Vim.      [31mreference_toc[m[21;66H[1m[7m9,30  [9C4%[20;30H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[21;65H[1m[7m90,0-1[20;1H[?12l[?25h[?25l[21;65H89,30  [19;30H[?12l[?25h[?25l[m[43;1H[1m[37m[41mE21: Cannot make changes, 'modifiable' is off[19;30H[?12l[?25h[19;30H[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[35mGeneral subjects[m
+[36mintro.txt[m[7Cgeneral introduction to Vim; notation used in help files
+[36mhelp.txt[m[8Coverview and quick reference (this file)
+[36mhelphelp.txt[m    about using the help files
+[36mindex.txt[m[7Calphabetical index of all commands
+[36mhelp-tags[m[7Call the tags you can jump to (index of tags)
+[36mhowto.txt[m[7Chow to do the most common editing tasks
+[36mtips.txt[m[8Cvarious tips on using Vim
+[36mmessage.txt[m     (error) messages and explanations
+[36mquotes.txt[m      remarks from users of Vim[43;1H[K[21;65H[1m[7m99,1  [10C9%[19;1H[?12l[?25h[?25l[21;65H100,1[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36mtodo.txt[m[8Cknown problems and desired extensions[21;67H[1m[7m1,[11C40%[20;1H[?12l[?25h[?25l[1;20r[m[20;1H
+[1;43r[20;1H[36mdevelop.txt[m     development of Vim[21;67H[1m[7m2,[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mdebug.txt[m[7Cdebugging Vim itself
+[36muganda.txt[m      Vim distribution conditions and what to do with your money
+
+[35mBasic editing[m
+[36mstarting.txt[m    starting Vim, Vim command arguments, initialisation
+[36mediting.txt[m     editing and writing files
+[36mmotion.txt[m      commands for moving around
+[36mscroll.txt[m      scrolling the text in the window
+[36minsert.txt[m      Insert and Replace mode
+[36mchange.txt[m      deleting and replacing text[21;66H[1m[7m12[13C5%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mindent.txt[m      automatic indenting for C and other languages
+[36mundo.txt[m[8CUndo and Redo
+[36mrepeat.txt[m      repeating commands, Vim scripts and debugging
+[36mvisual.txt[m      using the Visual mode (selecting a text area)
+[36mvarious.txt[m     various remaining commands
+[36mrecover.txt[m     recovering from a crash
+
+[35mAdvanced editing[m
+[36mcmdline.txt[m     Command-line editing
+[36moptions.txt[m     description of all options[21;66H[1m[7m22[12C50%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mpattern.txt[m     regexp patterns and search commands
+[36mmap.txt[m[9Ckey mapping and abbreviations
+[36mtagsrch.txt[m     tags and special searches
+[36mquickfix.txt[m    commands for a quick edit-compile-fix cycle
+[36mwindows.txt[m     commands for using multiple windows and buffers
+[36mtabpage.txt[m     commands for using multiple tab pages
+[36msyntax.txt[m      syntax highlighting
+[36mspell.txt[m[7Cspell checking
+[36mdiff.txt[m[8Cworking with two to four versions of the same file
+[36mautocmd.txt[m     automatically executing commands on an event[21;66H[1m[7m32[13C5%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mfiletype.txt[m    settings done specifically for a type of file
+[36meval.txt[m[8Cexpression evaluation, conditional commands
+[36mfold.txt[m[8Chide (fold) ranges of lines
+
+[35mSpecial issues[m
+[36mprint.txt[m[7Cprinting
+[36mremote.txt[m      using Vim as a server or client
+[36mterm.txt[m[8Cusing different terminals and mice
+[36mdigraph.txt[m     list of available digraphs
+[36mmbyte.txt[m[7Cmulti-byte text support[21;66H[1m[7m42[12C60%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mmlang.txt[m[7Cnon-English language support
+[36marabic.txt[m      Arabic language support and editing
+[36mfarsi.txt[m[7CFarsi (Persian) editing
+[36mhebrew.txt[m      Hebrew language support and editing
+[36mrussian.txt[m     Russian language support and editing
+[36mft_ada.txt[m      Ada (the programming language) support
+[36mft_sql.txt[m      about the SQL filetype plugin
+[36mhangulin.txt[m    Hangul (Korean) input mode
+[36mrileft.txt[m      right-to-left editing mode[21;66H[1m[7m52,0-1[9C5%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[35mGUI[m
+[36mgui.txt[m[9CGraphical User Interface (GUI)
+[36mgui_w16.txt[m     Windows 3.1 GUI
+[36mgui_w32.txt[m     Win32 GUI
+[36mgui_x11.txt[m     X11 GUI
+
+[35mInterfaces[m
+[36mif_cscop.txt[m    using Cscope with Vim
+[36mif_lua.txt[m      Lua interface
+[36mif_mzsch.txt[m    MzScheme interface[21;66H[1m[7m62,1   [7C70%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mif_perl.txt[m     Perl interface
+[36mif_pyth.txt[m     Python interface
+[36mif_sniff.txt[m    SNiFF+ interface
+[36mif_tcl.txt[m      Tcl interface
+[36mif_ole.txt[m      OLE automation interface for Win32
+[36mif_ruby.txt[m     Ruby interface
+[36mdebugger.txt[m    Interface with a debugger
+[36mworkshop.txt[m    Sun Visual Workshop interface
+[36mnetbeans.txt[m    NetBeans External Editor interface
+[36msign.txt[m[8Cdebugging signs[21;66H[1m[7m72[13C5%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[12;1H[35mVersions[m
+[36mvi_diff.txt[m     Main differences between Vim and Vi
+[36mversion4.txt[m    Differences between [36mVim version 3.0[m and 4.x
+[36mversion5.txt[m    Differences between [36mVim version 4.6[m and 5.x
+[36mversion6.txt[m    Differences between [36mVim version 5.7[m and 6.x
+[36mversion7.txt[m    Differences between [36mVim version 6.4[m and 7.x[18;49H[31msys-file-list[m
+[35mRemarks about specific systems[m
+[36mos_390.txt[m      OS/390 Unix[21;66H[1m[7m82[12C80%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mos_amiga.txt[m    Amiga
+[36mos_beos.txt[m     BeOS and BeBox
+[36mos_dos.txt[m      MS-DOS and MS-Windows NT/95 common items
+[36mos_mac.txt[m      Macintosh
+[36mos_mint.txt[m     Atari MiNT
+[36mos_msdos.txt[m    MS-DOS (plain DOS and DOS box under Windows)
+[36mos_os2.txt[m      OS/2
+[36mos_qnx.txt[m      QNX
+[36mos_risc.txt[m     RISC-OS
+[36mos_unix.txt[m     Unix[21;66H[1m[7m92[13C5%[20;1H[?12l[?25h[?25l[1;20r[m[1;1H[10M[1;43r[11;1H[36mos_vms.txt[m      VMS
+[36mos_win32.txt[m    MS-Windows 95/98/NT[13;49H[31mstandard-plugin-list[m
+[35mStandard plugins[m
+[36mpi_getscript.txt[m Downloading latest version of Vim scripts
+[36mpi_gzip.txt[m      Reading and writing compressed files
+[36mpi_netrw.txt[m     Reading and writing files over a network
+[36mpi_paren.txt[m     Highlight matching parens
+[36mpi_tar.txt[m[7CTar file explorer
+[36mpi_vimball.txt[m   Create a self-installing Vim script[21;65H[1m[7m202[12C90%[20;1H[?12l[?25h[27m[m[H[2J[?25l[1;1Htuna salad  2.
+[1m[34m~                                                                                 [3;1H~                                                                                 [4;1H~                                                                                 [5;1H~                                                                                 [6;1H~                                                                                 [7;1H~                                                                                 [8;1H~                                                                                 [9;1H~                                                                                 [10;1H~                                                                                 [11;1H~                                                                                 [12;1H~                                                                                 [13;1H~                                                                                 [14;1H~                                                                                 [15;1H~                                                                                 [16;1H~                                                                                 [17;1H~                                                                                 [18;1H~                                                                                 [19;1H~                                                                                 [20;1H~                                                                                 [21;1H~                                                                                 [22;1H~                                                                                 [23;1H~                                                                                 [24;1H~                                                                                 [25;1H~                                                                                 [26;1H~                                                                                 [27;1H~                                                                                 [28;1H~                                                                                 [29;1H~                                                                                 [30;1H~                                                                                 [31;1H~                                                                                 [32;1H~                                                                                 [33;1H~                                                                                 [34;1H~                                                                                 [35;1H~                                                                                 [36;1H~                                                                                 [37;1H~                                                                                 [38;1H~                                                                                 [39;1H~                                                                                 [40;1H~                                                                                 [41;1H~                                                                                 [42;1H~                                                                                 [m[43;65H1,14[10CAll[1;14H[?12l[?25h[?25l[43;1H[1m-- INSERT --[m[43;65H[K[43;65H1,14[10CAll[1;14H[?12l[?25h[?25l[43;68H5[1;15H[?12l[?25h[?25l5[43;68H6[1;16H[?12l[?25h[?25l [43;68H5[1;15H[?12l[?25h[?25l2[43;68H6[1;16H[?12l[?25h[?25l5[43;68H7[1;17H[?12l[?25h[?25l[43;68H8[1;18H[?12l[?25h[?25l[43;68H9[1;19H[?12l[?25h[?25l1[43;67H20[1;20H[?12l[?25h[?25l0[43;68H1[1;21H[?12l[?25h[?25l0[43;68H2[1;22H[?12l[?25h[?25l
+       [2;8H[K[43;65H2,1 [2;1H[?12l[?25h[?25lr[43;67H2[2;2H[?12l[?25h[?25la[43;67H3[2;3H[?12l[?25h[?25lr[43;67H4[2;4H[?12l[?25h[?25le[43;67H5[2;5H[?12l[?25h[?25l[43;67H6[2;6H[?12l[?25h[?25lh[43;67H7[2;7H[?12l[?25h[?25la[43;67H8[2;8H[?12l[?25h[?25lm[43;67H9[2;9H[?12l[?25h[?25lb[43;67H10[2;10H[?12l[?25h[?25lu[43;68H1[2;11H[?12l[?25h[?25lr[43;68H2[2;12H[?12l[?25h[?25lg[43;68H3[2;13H[?12l[?25h[?25le[43;68H4[2;14H[?12l[?25h[?25lr[43;68H5[2;15H[?12l[?25h[?25l[43;68H6[2;16H[?12l[?25h[?25l[43;68H7[2;17H[?12l[?25h[?25l[43;68H8[2;18H[?12l[?25h[?25l[43;68H9[2;19H[?12l[?25h[?25l[43;65H1[1;19H[?12l[?25h[?25l[43;68H8[1;18H[?12l[?25h[?25l[43;68H7[1;17H[?12l[?25h[?25l[43;68H6[1;16H[?12l[?25h[?25l[43;68H5[1;15H[?12l[?25h[?25l[43;68H4[1;14H[?12l[?25h[?25l[43;68H3[1;13H[?12l[?25h[?25l[43;68H2[1;12H[?12l[?25h[?25l  2.25  100[43;68H3[1;13H[?12l[?25h[?25l  2.25  100[43;68H4[1;14H[?12l[?25h[?25l  2.25  100[43;68H5[1;15H[?12l[?25h[?25l  2.25  100[43;68H6[1;16H[?12l[?25h[?25l  2.25  100[43;68H7[1;17H[?12l[?25h[?25l  2.25  100[43;68H8[1;18H[?12l[?25h[?25l  2.25  100[43;68H9[1;19H[?12l[?25h[?25l  2.25  100[43;67H20[1;20H[?12l[?25h[?25l[43;65H2[2;20H[?12l[?25h[?25l[43;68H1[2;21H[?12l[?25h[43;1H[K[?25l[43;65H2,20[10CAll[2;20H[?12l[?25h[?25l[43;1H[1m-- INSERT --[m[43;65H[K[43;65H2,1[11CTop[2;42r[2;1H[L[1;43r[2;1Hr[43;65H[K[43;65H2,2[11CAll[2;2H[?12l[?25h[?25l[2;1H[K[43;67H1[2;1H[?12l[?25h[?25l[43;65H3[3;1H[?12l[?25h[?25l[2;1Hrare hamburger
+[1m[34m~                                                                                 [m[43;65H2[2;1H[?12l[?25h[?25l[43;67H2[2;2H[?12l[?25h[?25l[43;67H3[2;3H[?12l[?25h[?25l[43;67H4[2;4H[?12l[?25h[?25l[43;67H5[2;5H[?12l[?25h[?25l[43;67H6[2;6H[?12l[?25h[?25l[43;67H7[2;7H[?12l[?25h[?25l[43;67H8[2;8H[?12l[?25h[?25l[43;67H9[2;9H[?12l[?25h[?25l[43;67H10[2;10H[?12l[?25h[?25l[43;68H1[2;11H[?12l[?25h[?25l[43;68H2[2;12H[?12l[?25h[?25l[43;68H3[2;13H[?12l[?25h[?25l[43;68H4[2;14H[?12l[?25h[?25l[43;68H5[2;15H[?12l[?25h[?25l[43;68H6[2;16H[?12l[?25h[?25l[43;68H7[2;17H[?12l[?25h[?25l[43;68H8[2;18H[?12l[?25h[?25l[43;68H9[2;19H[?12l[?25h[?25l[43;67H20[2;20H[?12l[?25h[?25l[43;68H1[2;21H[?12l[?25h[?25l2[43;68H2[2;22H[?12l[?25h[?25l.[43;68H3[2;23H[?12l[?25h[?25l5[43;68H4[2;24H[?12l[?25h[?25l0[43;68H5[2;25H[?12l[?25h[?25l[43;68H6[2;26H[?12l[?25h[?25l[43;68H7[2;27H[?12l[?25h[?25l5[43;68H8[2;28H[?12l[?25h[?25l0[43;68H9[2;29H[?12l[?25h[?25l0[43;67H30[2;30H[?12l[?25h[?25l
+     [3;6H[K[43;65H3,1 [3;1H[?12l[?25h[?25lf[43;67H2[3;2H[?12l[?25h[?25lr[43;67H3[3;3H[?12l[?25h[?25le[43;67H4[3;4H[?12l[?25h[?25ln[43;67H5[3;5H[?12l[?25h[?25lc[43;67H6[3;6H[?12l[?25h[?25lh[43;67H7[3;7H[?12l[?25h[?25l[43;67H8[3;8H[?12l[?25h[?25lf[43;67H9[3;9H[?12l[?25h[?25lr[43;67H10[3;10H[?12l[?25h[?25li[43;68H1[3;11H[?12l[?25h[?25le[43;68H2[3;12H[?12l[?25h[?25ls[43;68H3[3;13H[?12l[?25h[?25l[43;68H4[3;14H[?12l[?25h[?25l[43;68H5[3;15H[?12l[?25h[?25l[43;68H6[3;16H[?12l[?25h[?25l[43;68H7[3;17H[?12l[?25h[?25l[43;68H8[3;18H[?12l[?25h[?25l[43;68H9[3;19H[?12l[?25h[?25l[43;67H20[3;20H[?12l[?25h[?25l[43;68H1[3;21H[?12l[?25h[?25l[43;68H2[3;22H[?12l[?25h[?25l[43;68H1[3;21H[?12l[?25h[?25l0[43;68H2[3;22H[?12l[?25h[?25l.[43;68H3[3;23H[?12l[?25h[?25l7[43;68H4[3;24H[?12l[?25h[?25l5[43;68H5[3;25H[?12l[?25h[?25l[43;68H6[3;26H[?12l[?25h[?25l[43;68H7[3;27H[?12l[?25h[?25l6[43;68H8[3;28H[?12l[?25h[?25l2[43;68H9[3;29H[?12l[?25h[?25l5[43;67H30[3;30H[?12l[?25h[?25l
+     [4;6H[K[43;65H4,1 [4;1H[?12l[?25h[?25lt[43;67H2[4;2H[?12l[?25h[?25le[43;67H3[4;3H[?12l[?25h[?25la[43;67H4[4;4H[?12l[?25h[?25l[43;67H5[4;5H[?12l[?25h[?25lb[43;67H6[4;6H[?12l[?25h[?25la[43;67H7[4;7H[?12l[?25h[?25ld[43;67H8[4;8H[?12l[?25h[?25l [43;67H7[4;7H[?12l[?25h[?25lg[43;67H8[4;8H[?12l[?25h[?25l[43;67H9[4;9H[?12l[?25h[?25l[43;67H10[4;10H[?12l[?25h[?25l[43;68H1[4;11H[?12l[?25h[?25l[43;68H2[4;12H[?12l[?25h[?25l[43;68H3[4;13H[?12l[?25h[?25l[43;68H4[4;14H[?12l[?25h[?25l[43;68H5[4;15H[?12l[?25h[?25l[43;68H6[4;16H[?12l[?25h[?25l[43;68H7[4;17H[?12l[?25h[?25l[43;68H8[4;18H[?12l[?25h[?25l[43;68H9[4;19H[?12l[?25h[?25l[43;67H20[4;20H[?12l[?25h[?25l[43;68H1[4;21H[?12l[?25h[?25l[43;68H2[4;22H[?12l[?25h[?25l.[43;68H3[4;23H[?12l[?25h[?25l2[43;68H4[4;24H[?12l[?25h[?25l0[43;68H5[4;25H[?12l[?25h[?25l[43;68H6[4;26H[?12l[?25h[?25l[43;68H7[4;27H[?12l[?25h[?25l[43;68H8[4;28H[?12l[?25h[?25l[43;68H9[4;29H[?12l[?25h[?25l0[43;67H30[4;30H[?12l[?25h[?25l
+     [5;6H[K[43;65H5,1 [5;1H[?12l[?25h[?25la[43;67H2[5;2H[?12l[?25h[?25lp[43;67H3[5;3H[?12l[?25h[?25lp[43;67H4[5;4H[?12l[?25h[?25ll[43;67H5[5;5H[?12l[?25h[?25le[43;67H6[5;6H[?12l[?25h[?25l[43;67H7[5;7H[?12l[?25h[?25lp[43;67H8[5;8H[?12l[?25h[?25li[43;67H9[5;9H[?12l[?25h[?25le[43;67H10[5;10H[?12l[?25h[?25l[43;68H1[5;11H[?12l[?25h[?25l[43;68H2[5;12H[?12l[?25h[?25l[43;68H3[5;13H[?12l[?25h[?25l[43;68H4[5;14H[?12l[?25h[?25l[43;68H5[5;15H[?12l[?25h[?25l[43;68H6[5;16H[?12l[?25h[?25l[43;68H7[5;17H[?12l[?25h[?25l[43;68H8[5;18H[?12l[?25h[?25l[43;68H9[5;19H[?12l[?25h[?25l[43;67H20[5;20H[?12l[?25h[?25l[43;68H1[5;21H[?12l[?25h[?25l2[43;68H2[5;22H[?12l[?25h[?25l.[43;68H3[5;23H[?12l[?25h[?25l7[43;68H4[5;24H[?12l[?25h[?25l5[43;68H5[5;25H[?12l[?25h[?25l[43;68H6[5;26H[?12l[?25h[?25l1[43;68H7[5;27H[?12l[?25h[?25l5[43;68H8[5;28H[?12l[?25h[?25l0[43;68H9[5;29H[?12l[?25h[?25l0[43;67H30[5;30H[?12l[?25h[?25l
+     [6;6H[K[43;65H6,1 [6;1H[?12l[?25h[?25lm[43;67H2[6;2H[?12l[?25h[?25li[43;67H3[6;3H[?12l[?25h[?25ll[43;67H4[6;4H[?12l[?25h[?25lk[43;67H5[6;5H[?12l[?25h[?25l[43;67H6[6;6H[?12l[?25h[?25ls[43;67H7[6;7H[?12l[?25h[?25lh[43;67H8[6;8H[?12l[?25h[?25la[43;67H9[6;9H[?12l[?25h[?25lk[43;67H10[6;10H[?12l[?25h[?25le[43;68H1[6;11H[?12l[?25h[?25l[43;68H2[6;12H[?12l[?25h[?25l[43;68H3[6;13H[?12l[?25h[?25l[43;68H4[6;14H[?12l[?25h[?25l[43;68H5[6;15H[?12l[?25h[?25l[43;68H6[6;16H[?12l[?25h[?25l[43;68H7[6;17H[?12l[?25h[?25l[43;68H8[6;18H[?12l[?25h[?25l[43;68H9[6;19H[?12l[?25h[?25l[43;67H20[6;20H[?12l[?25h[?25l[43;68H1[6;21H[?12l[?25h[?25l3[43;68H2[6;22H[?12l[?25h[?25l[43;68H3[6;23H[?12l[?25h[?25l[43;68H4[6;24H[?12l[?25h[?25l[43;68H5[6;25H[?12l[?25h[?25l[43;68H6[6;26H[?12l[?25h[?25l[43;68H7[6;27H[?12l[?25h[?25l2[43;68H8[6;28H[?12l[?25h[?25l0[43;68H9[6;29H[?12l[?25h[?25l0[43;67H30[6;30H[?12l[?25h[?25l
+     [7;6H[K[43;65H7,1 [7;1H[?12l[?25h[?25lp[43;67H2[7;2H[?12l[?25h[?25lo[43;67H3[7;3H[?12l[?25h[?25lt[43;67H4[7;4H[?12l[?25h[?25la[43;67H5[7;5H[?12l[?25h[?25lt[43;67H6[7;6H[?12l[?25h[?25lo[43;67H7[7;7H[?12l[?25h[?25l[43;67H8[7;8H[?12l[?25h[?25lc[43;67H9[7;9H[?12l[?25h[?25lh[43;67H10[7;10H[?12l[?25h[?25li[43;68H1[7;11H[?12l[?25h[?25lp[43;68H2[7;12H[?12l[?25h[?25ls[43;68H3[7;13H[?12l[?25h[?25l[43;68H4[7;14H[?12l[?25h[?25l[43;68H5[7;15H[?12l[?25h[?25l[43;68H6[7;16H[?12l[?25h[?25l[43;68H7[7;17H[?12l[?25h[?25l[43;68H8[7;18H[?12l[?25h[?25l[43;68H9[7;19H[?12l[?25h[?25l[43;67H20[7;20H[?12l[?25h[?25l[43;68H1[7;21H[?12l[?25h[?25l0[43;68H2[7;22H[?12l[?25h[?25l.[43;68H3[7;23H[?12l[?25h[?25l5[43;68H4[7;24H[?12l[?25h[?25l0[43;68H5[7;25H[?12l[?25h[?25l[43;68H6[7;26H[?12l[?25h[?25l[43;68H7[7;27H[?12l[?25h[?25l[43;68H8[7;28H[?12l[?25h[?25l8[43;68H9[7;29H[?12l[?25h[?25l0[43;67H30[7;30H[?12l[?25h[?25lZ[43;68H1[7;31H[?12l[?25h[?25lZ[43;68H2[7;32H[?12l[?25h[?25l [43;68H1[7;31H[?12l[?25h[?25l [43;68H0[7;30H[?12l[?25h[?25l
+     [8;6H[K[43;65H8,1 [8;1H[?12l[?25h[?25lZ[43;67H2[8;2H[?12l[?25h[?25lZ[43;67H3[8;3H[?12l[?25h[?25l [43;67H2[8;2H[?12l[?25h[?25l [43;67H1[8;1H[?12l[?25h[?25li[43;67H2[8;2H[?12l[?25h[?25l [43;67H1[8;1H[?12l[?25h[?25l[?12l[?25h[27m[m[H[2J[?25l[1;1Htuna salad[10C2.25  100
+rare hamburger      2.50  500
+french fries[8C0.75  625
+tea bag[14C.20    0
+apple pie[11C2.75 1500
+milk shake[10C3     200
+potato chips[8C0.50   80
+
+[1m[34m~                                                                                                                                                                       [10;1H~                                                                                                                                                                       [11;1H~                                                                                                                                                                       [12;1H~                                                                                                                                                                       [13;1H~                                                                                                                                                                       [14;1H~                                                                                                                                                                       [15;1H~                                                                                                                                                                       [16;1H~                                                                                                                                                                       [17;1H~                                                                                                                                                                       [18;1H~                                                                                                                                                                       [19;1H~                                                                                                                                                                       [20;1H~                                                                                                                                                                       [21;1H~                                                                                                                                                                       [22;1H~                                                                                                                                                                       [23;1H~                                                                                                                                                                       [24;1H~                                                                                                                                                                       [25;1H~                                                                                                                                                                       [26;1H~                                                                                                                                                                       [27;1H~                                                                                                                                                                       [28;1H~                                                                                                                                                                       [29;1H~                                                                                                                                                                       [30;1H~                                                                                                                                                                       [31;1H~                                                                                                                                                                       [32;1H~                                                                                                                                                                       [33;1H~                                                                                                                                                                       [34;1H~                                                                                                                                                                       [35;1H~                                                                                                                                                                       [36;1H~                                                                                                                                                                       [37;1H~                                                                                                                                                                       [38;1H~                                                                                                                                                                       [39;1H~                                                                                                                                                                       [40;1H~                                                                                                                                                                       [41;1H~                                                                                                                                                                       [42;1H~                                                                                                                                                                       [43;1H~                                                                                                                                                                       [m[44;1H[1m-- INSERT --[m[138C8,1[11CAll[8;1H[?12l[?25h[?25l[44;151H7[7;1H[?12l[?25h[?25l[44;151H8[8;1H[?12l[?25h[?25l[44;151H7[7;1H[?12l[?25h[?25l[44;151H6[6;1H[?12l[?25h[?25l[44;151H7[7;1H[?12l[?25h[?25l[44;151H8[8;1H[?12l[?25h[44;1H[K[8;1H[?25l[44;151H8,0-1[9CAll[8;1H[?12l[?25h[?25l[44;1H"food"[44;151H[K[44;8H[New] 8L, 211C written
+[?1l>[?12l[?25h[?1049l]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ [K[ssayed10@mtrx-node04pd ~]$ [K[ssayed10@mtrx-node04pd ~]$ export LC_ALL=C
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ cat food
+tuna salad          2.25  100
+rare hamburger      2.50  500
+french fries        0.75  625
+tea bag              .20    0
+apple pie           2.75 1500
+milk shake          3     200
+potato chips        0.50   80
+
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ sort food
+
+apple pie           2.75 1500
+french fries        0.75  625
+milk shake          3     200
+potato chips        0.50   80
+rare hamburger      2.50  500
+tea bag              .20    0
+tuna salad          2.25  100
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ [K[ssayed10@mtrx-node04pd ~]$ cat food | sort
+
+apple pie           2.75 1500
+french fries        0.75  625
+milk shake          3     200
+potato chips        0.50   80
+rare hamburger      2.50  500
+tea bag              .20    0
+tuna salad          2.25  100
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ sort -r food
+tuna salad          2.25  100
+tea bag              .20    0
+rare hamburger      2.50  500
+potato chips        0.50   80
+milk shake          3     200
+french fries        0.75  625
+apple pie           2.75 1500
+
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ sort --key=2 food
+
+tea bag              .20    0
+potato chips        0.50   80
+french fries        0.75  625
+rare hamburger      2.50  500
+apple pie           2.75 1500
+tuna salad          2.25  100
+milk shake          3     200
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ sort -b --key=3 food
+
+tea bag              .20    0
+potato chips        0.50   80
+french fries        0.75  625
+tuna salad          2.25  100
+rare hamburger      2.50  500
+apple pie           2.75 1500
+milk shake          3     200
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ sort -b --key=3 food[1@bb[1P[1P[1P --key=3b food
+
+tea bag              .20    0
+potato chips        0.50   80
+french fries        0.75  625
+tuna salad          2.25  100
+rare hamburger      2.50  500
+apple pie           2.75 1500
+milk shake          3     200
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ sort -nr --key=4 food > calo
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ cat calo
+apple pie           2.75 1500
+french fries        0.75  625
+rare hamburger      2.50  500
+milk shake          3     200
+tuna salad          2.25  100
+potato chips        0.50   80
+tea bag              .20    0
+
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ sort -nr -o calo --key=4 food
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ cat calo
+apple pie           2.75 1500
+french fries        0.75  625
+rare hamburger      2.50  500
+milk shake          3     200
+tuna salad          2.25  100
+potato chips        0.50   80
+tea bag              .20    0
+
+]0;ssayed10@mtrx-node04pd:~[ssayed10@mtrx-node04pd ~]$ exit
+exit
+
+Script done on Thu 05 Dec 2019 04:36:21 PM EST

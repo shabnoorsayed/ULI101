@@ -1,0 +1,115 @@
+Script started on Thu 17 Oct 2019 07:07:39 PM EDT
+]0;ssayed10@mtrx-node02pd:~[?1034h[ssayed10@mtrx-node02pd ~]$ whoami
+ssayed10
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ date
+Thu Oct 17 19:07:49 EDT 2019
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat
+my name is shabnoor
+my name is shabnoor
+byr e.
+bye.
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ echo this ma[Kessage goes to standard output.
+this message goes to standard output.
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat /etc/hosts
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+#::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.102.108.12 mtrx-node02pd mtrx-node02pd.dcm.senecacollege.ca
+10.101.250.62 domaindnszones.seneds.senecacollege.ca
+10.101.250.62 forestdnszones.seneds.senecacollege.ca
+10.101.250.62 seneds.senecacollege.ca
+
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ scho[K[K[K[Kecho hi there > hi.tjhe[K[K[Khere[K[K[K[K[Kfile
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat hi.file
+hi there
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat < hi.file
+hi there
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls -l > ls.output
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat ls.out
+total 256
+-rw-r--r-- 1 ssayed10 users     57 Oct  9 01:50 days
+-r--r--r-- 1 ssayed10 users      0 Oct  3 14:05 dog
+-rw-r--r-- 1 ssayed10 users      9 Oct  9 19:24 hi.file
+-rw-r--r-- 1 ssayed10 users 106855 Oct  9 01:58 ls.big
+-rw-r--r-- 1 ssayed10 users      0 Oct  9 19:25 ls.out
+-rw-r--r-- 1 ssayed10 users     51 Oct  2 13:26 practice
+drwx---r-x 3 ssayed10 users     39 May  2  2018 public_html
+drwxr-xr-x 2 ssayed10 users     44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users  16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users    797 Oct  9 01:58 uli101-L6-ssayed.txt
+hchan56  pts/0        2019-10-09 16:11 (99.228.134.25)
+pshah67  pts/1        2019-10-09 18:34 (70.50.58.110)
+ywon7    pts/2        2019-10-09 19:20 (10.251.230.81)
+nakioya  pts/3        2019-10-09 18:50 (10.40.89.239)
+vsantharupan pts/4        2019-10-09 17:26 (99.226.202.36)
+dkordik  pts/5        2019-10-09 16:13 (70.52.163.118)
+ssayed10 pts/6        2019-10-09 19:22 (10.40.81.223)
+alex.babalis pts/7        2019-10-09 19:22 (10.40.89.219)
+hyan18   pts/8        2019-10-09 19:06 (10.40.89.218)
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ who >> ls.out
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat ls.out
+total 256
+-rw-r--r-- 1 ssayed10 users     57 Oct  9 01:50 days
+-r--r--r-- 1 ssayed10 users      0 Oct  3 14:05 dog
+-rw-r--r-- 1 ssayed10 users      9 Oct  9 19:24 hi.file
+-rw-r--r-- 1 ssayed10 users 106855 Oct  9 01:58 ls.big
+-rw-r--r-- 1 ssayed10 users      0 Oct  9 19:25 ls.out
+-rw-r--r-- 1 ssayed10 users     51 Oct  2 13:26 practice
+drwx---r-x 3 ssayed10 users     39 May  2  2018 public_html
+drwxr-xr-x 2 ssayed10 users     44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users  16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users    797 Oct  9 01:58 uli101-L6-ssayed.txt
+hchan56  pts/0        2019-10-09 16:11 (99.228.134.25)
+pshah67  pts/1        2019-10-09 18:34 (70.50.58.110)
+ywon7    pts/2        2019-10-09 19:20 (10.251.230.81)
+nakioya  pts/3        2019-10-09 18:50 (10.40.89.239)
+vsantharupan pts/4        2019-10-09 17:26 (99.226.202.36)
+dkordik  pts/5        2019-10-09 16:13 (70.52.163.118)
+ssayed10 pts/6        2019-10-09 19:22 (10.40.81.223)
+alex.babalis pts/7        2019-10-09 19:22 (10.40.89.219)
+hyan18   pts/8        2019-10-09 19:06 (10.40.89.218)
+nsugal   pts/1        2019-10-17 16:08 (10.40.10.51)
+xjiang75 pts/2        2019-10-17 18:06 (67.71.61.154)
+aj2      pts/3        2019-10-17 15:13 (99.240.227.51)
+kmarkan  pts/4        2019-10-17 18:19 (72.141.107.131)
+vsantharupan pts/5        2019-10-17 18:22 (99.226.202.36)
+rmagcalas pts/6        2019-10-17 18:50 (99.241.150.223)
+cllau1   pts/7        2019-10-17 19:02 (10.32.131.225)
+ssayed10 pts/8        2019-10-17 19:06 (10.40.46.79)
+ssayed10 pts/9        2019-10-17 19:07
+abrooks15 pts/10       2019-10-17 16:58 (70.26.151.224)
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat > days
+Moday^[[D^[[D        ^[[D       nday
+Tuesday
+Wednesday
+Thursdat t y
+fr  Friday
+Saturday
+Sunday^[[C    
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat days | sort
+Friday
+Monday
+Saturday
+Sunday
+Thursday
+Tuesday
+Wednesday
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat days | grep T
+[01;31m[KT[m[Kuesday
+[01;31m[KT[m[Khursday
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat days | grep T | sort
+Thursday
+Tuesday
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls -l /etc/usr/bin/sbin > ls.bin[Kg &
+[1] 55586
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls: cannot access /etc/usr/bin/sbin: No such file or directory
+exit
+
+Script done on Thu 17 Oct 2019 07:14:41 PM EDT

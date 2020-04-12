@@ -1,0 +1,24 @@
+Script started on Thu 03 Oct 2019 01:49:55 PM EDT
+]0;ssayed10@mtrx-node02pd:~[?1034h[ssayed10@mtrx-node02pd ~]$ whoami
+ssayed10
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ date
+Thu Oct  3 13:50:03 EDT 2019
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ touch dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls dog
+dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls -l dog
+-rw-r--r-- 1 ssayed10 users 0 Oct  3 14:05 dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls -l /bin/bash
+-rwxr-xr-x 1 root root 964608 Oct 30  2018 [0m[01;32m/bin/bash[0m
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls -l dog
+-rw-r--r-- 1 ssayed10 users 0 Oct  3 14:05 dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ chmod 600 dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls -l dp[Koh[Kg
+-rw------- 1 ssayed10 users 0 Oct  3 14:05 dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ $ c[K[K[Kchmod 444 dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ ls -l dog
+-r--r--r-- 1 ssayed10 users 0 Oct  3 14:05 dog
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ exit
+exit
+
+Script done on Thu 03 Oct 2019 02:09:58 PM EDT

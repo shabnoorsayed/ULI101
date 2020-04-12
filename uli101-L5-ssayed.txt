@@ -1,0 +1,883 @@
+Script started on Mon 07 Oct 2019 01:24:35 PM EDT
+]0;ssayed10@mtrx-node01pd:~[?1034h[ssayed10@mtrx-node01pd ~]$ whoami
+ssayed10
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ date
+Mon Oct  7 13:24:44 EDT 2019
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ cd
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ hostname
+mtrx-node01pd.dcm.senecacollege.ca
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ ls
+days      [0m[01;34mpublic_html[0m           uli101-L2-ssayed.txt  uli101-L5-ssayed.txt
+dog       [01;34mtwo[0m                   uli101-L3-ssayed.txt
+practice  uli101-L1-ssayed.txt  uli101-L4-ssayed.txt
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ pwd
+/home/ssayed10
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ cat days
+Monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
+
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ cd two
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ echo $0
+bash
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ file two
+two: cannot open (No such file or directory)
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ help echo
+echo: echo [-neE] [arg ...]
+    Write arguments to the standard output.
+    
+    Display the ARGs on the standard output followed by a newline.
+    
+    Options:
+      -n	do not append a newline
+      -e	enable interpretation of the following backslash escapes
+      -E	explicitly suppress interpretation of backslash escapes
+    
+    `echo' interprets the following backslash-escaped characters:
+      \a	alert (bell)
+      \b	backspace
+      \c	suppress further output
+      \e	escape character
+      \f	form feed
+      \n	new line
+      \r	carriage return
+      \t	horizontal tab
+      \v	vertical tab
+      \\	backslash
+      \0nnn	the character whose ASCII code is NNN (octal).  NNN can be
+    	0 to 3 octal digits
+      \xHH	the eight-bit character whose value is HH (hexadecimal).  HH
+    	can be one or two hex digits
+    
+    Exit Status:
+    Returns success unless a write error occurs.
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ less /etc/services
+[?1049h[?1h=# /etc/services:
+# $Id: services,v 1.55 2013/04/14 ovasik Exp $
+#
+# Network services, Internet style
+# IANA services version: last updated 2013-04-10
+#
+# Note that it is presently the policy of IANA to assign a single well-known
+# port number for both TCP and UDP; hence, most entries here have two entries
+# even if the protocol doesn't support UDP operations.
+# Updated from RFC 1700, ``Assigned Numbers'' (October 1994).  Not all ports
+# are included, only the more common ones.
+#
+# The latest IANA port assignments can be gotten from
+#       http://www.iana.org/assignments/port-numbers
+# The Well Known Ports are those from 0 through 1023.
+# The Registered Ports are those from 1024 through 49151
+# The Dynamic and/or Private Ports are those from 49152 through 65535
+#
+# Each line describes one service, and is of the form:
+#
+# service-name  port/protocol  [aliases ...]   [# comment]
+
+tcpmux          1/tcp                           # TCP port service multiplexer
+[7m/etc/services[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H
+ Exp $
+
+
+13-04-10
+
+f IANA to assign a single well-known
+e, most entries here have two entries
+DP operations.
+ers'' (October 1994).  Not all ports
+s.
+
+e gotten from
+port-numbers
+through 1023.
+24 through 49151
+hose from 49152 through 65535
+
+s of the form:
+
+...]   [# comment]
+
+        # TCP port service multiplexer
+:[K[K [KESCESC[KOO[KBB[K        # TCP port service multiplexer
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Entry
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Entry
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Kl
+:[K[K [KESCESC[KOO[KBB[Kl
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # message send protocol (historic)
+:[K[K [KESCESC[KOO[KBB[K        # message send protocol (historic)
+:[K[K [KESCESC[KOO[KBB[Kource
+:[K[K [KESCESC[KOO[KBB[Kource
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K by fsp
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # The Secure Shell (SSH) Protocol
+:[K[K [KESCESC[KOO[KBB[K        # The Secure Shell (SSH) Protocol
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # LMTP Mail Delivery
+:[K[K [KESCESC[KOO[KBB[K        # LMTP Mail Delivery
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Kr
+:[K[K [KESCESC[KOO[KBB[Kr
+:[K[K [KESCESC[KOO[KBB[K        # resource location
+:[K[K [KESCESC[KOO[KBB[K        # resource location
+:[K[K [KESCESC[KOO[KBB[K        # IEN 116
+:[K[K [KESCESC[KOO[KBB[K        # IEN 116
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Login Host Protocol (TACACS)
+:[K[K [KESCESC[KOO[KBB[K        # Login Host Protocol (TACACS)
+:[K[K [KESCESC[KOO[KBB[K        # Remote Mail Checking Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Remote Mail Checking Protocol
+:[K[K [KESCESC[KOO[KBB[K        # name-domain server
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # BOOTP server
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # BOOTP client
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Internet Gopher
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K        # Remote Job Service
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Khttp    # WorldWideWeb HTTP
+:[K[K [KESCESC[KOO[KBB[Khttp    # HyperText Transfer Protocol
+:[K[K [KESCESC[KOO[KBB[K        # HyperText Transfer Protocol
+:[K[K [KESCESC[KOO[KBB[K5 krb5  # Kerberos v5
+:[K[K [KESCESC[KOO[KBB[K5 krb5  # Kerberos v5
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Ks       # usually from sri-nic
+:[K[K [KESCESC[KOO[KBB[Ks       # usually from sri-nic
+:[K[K [KESCESC[KOO[KBB[K        # part of ISODE.
+:[K[K [KESCESC[KOO[KBB[K        # also used by CSO name server
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Kes a port which has already
+:[K[K [KESCESC[KOO[KBB[KWe list the poppassd as an
+:[K[K [KESCESC[KOO[KBB[Kams asking for this service.
+:[K[K [KESCESC[KOO[KBB[Kline is disabled)
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Remote Telnet
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Kstoffice        # POP version 2
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # POP version 3
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Ker rpcbind      # RPC 4.0 portmapper TCP
+:[K[K [KESCESC[KOO[KBB[Ker rpcbind      # RPC 4.0 portmapper UDP
+:[K[K [KESCESC[KOO[KBB[Kcation tap ident
+:[K[K [KESCESC[KOO[KBB[Kcation tap ident
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K untp   # USENET News Transfer Protocol
+:[K[K [KESCESC[KOO[KBB[K untp   # USENET News Transfer Protocol
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Network Time Protocol
+:[K[K [KESCESC[KOO[KBB[K        # NETBIOS Name Service
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # NETBIOS Datagram Service
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # NETBIOS session service
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Interim Mail Access Proto v2
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Simple Net Mgmt Proto
+:[K[K [KESCESC[KOO[KBB[K        # Simple Net Mgmt Proto
+:[K[K [KESCESC[KOO[KBB[K        # SNMPTRAP
+:[K[K [KESCESC[KOO[KBB[Kp       # Traps for SNMP
+:[K[K [KESCESC[KOO[KBB[K        # ISO mgmt over IP (CMOT)
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # MAILQ
+:[K[K [KESCESC[KOO[KBB[K        # MAILQ
+:[K[K [KESCESC[KOO[KBB[K        # X Display Mgr. Control Proto
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K NextStep       # NeXTStep window
+:[K[K [KESCESC[KOO[KBB[K NextStep       # server
+:[K[K [KESCESC[KOO[KBB[K        # Border Gateway Proto.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Cliff Neuman's Prospero
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Internet Relay Chat
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # SNMP Unix Multiplexer
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # AppleTalk routing
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # AppleTalk name binding
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # AppleTalk echo
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # AppleTalk zone information
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Quick Mail Transfer Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Quick Mail Transfer Protocol
+:[K[K [KESCESC[KOO[KBB[K9-50 wais      # NISO Z39.50 database
+:[K[K [KESCESC[KOO[KBB[K9-50 wais
+:[K[K [KESCESC[KOO[KBB[K        # IPX
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Interactive Mail Access
+:[K[K [KESCESC[KOO[KBB[K        # Protocol v3
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Q-mode encapsulation for GIST messages
+:[K[K [KESCESC[KOO[KBB[K        # Fatmen Server
+:[K[K [KESCESC[KOO[KBB[K        # Fatmen Server
+:[K[K [KESCESC[KOO[KBB[Knel
+:[K[K [KESCESC[KOO[KBB[Knel
+:[K[K [KESCESC[KOO[KBB[K        # odmr required by fetchmail
+:[K[K [KESCESC[KOO[KBB[K        # odmr required by fetchmail
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Coda portmapper
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Coda authentication server
+:[K[K [KESCESC[KOO[KBB[Kv       # UNIX Listserv
+:[K[K [KESCESC[KOO[KBB[Kv
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Oracle Secure Backup
+:[K[K [KESCESC[KOO[KBB[K        # Oracle Secure Backup
+:[K[K [KESCESC[KOO[KBB[K        # Server Location Protocl
+:[K[K [KESCESC[KOO[KBB[K        # Server Location Protocl
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # http protocol over TLS/SSL
+:[K[K [KESCESC[KOO[KBB[K        # http protocol over TLS/SSL
+:[K[K [KESCESC[KOO[KBB[K        # http protocol over TLS/SSL
+:[K[K [KESCESC[KOO[KBB[K        # Simple Network Paging Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Simple Network Paging Protocol
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Kerberos "passwd"
+:[K[K [KESCESC[KOO[KBB[K        # Kerberos "passwd"
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Simple Asynchronous File Transfer
+:[K[K [KESCESC[KOO[KBB[K        # Simple Asynchronous File Transfer
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # GNUstep distributed objects
+:[K[K [KESCESC[KOO[KBB[K        # GNUstep distributed objects
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Real Time Stream Control Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Real Time Stream Control Protocol
+:[K[K [KESCESC[KOO[KBB[K        # NNTP over SSL
+:[K[K [KESCESC[KOO[KBB[K        # NNTP over SSL
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # mail message submission
+:[K[K [KESCESC[KOO[KBB[K        # mail message submission
+:[K[K [KESCESC[KOO[KBB[Kmaster  # npmp-local / DQS
+:[K[K [KESCESC[KOO[KBB[Kmaster  # npmp-local / DQS
+:[K[K [KESCESC[KOO[KBB[Kxecd    # npmp-gui / DQS
+:[K[K [KESCESC[KOO[KBB[Kxecd    # npmp-gui / DQS
+:[K[K [KESCESC[KOO[KBB[Kntercell # HMMP Indication / DQS
+:[K[K [KESCESC[KOO[KBB[Kntercell # HMMP Indication / DQS
+:[K[K [KESCESC[KOO[KBB[K        # Internet Printing Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Internet Printing Protocol
+:[K[K [KESCESC[KOO[KBB[K        # LDAP over SSL
+:[K[K [KESCESC[KOO[KBB[K        # LDAP over SSL
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Heartbeat HA-cluster
+:[K[K [KESCESC[KOO[KBB[K        # Heartbeat HA-cluster
+:[K[K [KESCESC[KOO[KBB[K        # Kerberos `kadmin' (v5)
+:[K[K [KESCESC[KOO[KBB[K        # kerberos administration
+:[K[K [KESCESC[KOO[KBB[K4 kerberos-sec kdc loadav
+:[K[K [KESCESC[KOO[KBB[K4 kerberos-sec kdc rfile
+:[K[K [KESCESC[KOO[KBB[K        # Network dictionary
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Network phonebook
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # rsync
+:[K[K [KESCESC[KOO[KBB[K        # rsync
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # rquota daemon
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # rquota daemon
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # IMAP over SSL
+:[K[K [KESCESC[KOO[KBB[K        # IMAP over SSL
+:[K[K [KESCESC[KOO[KBB[K        # POP-3 over SSL
+:[K[K [KESCESC[KOO[KBB[K        # POP-3 over SSL
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # no passwords used
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # line printer spooler
+:[K[K [KESCESC[KOO[KBB[K        # line printer spooler
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Kuted    # RIP
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Ker
+:[K[K [KESCESC[KOO[KBB[Ker
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # -for emergency broadcasts
+:[K[K [KESCESC[KOO[KBB[K        # uucp daemon
+:[K[K [KESCESC[KOO[KBB[K        # Kerberized `rlogin' (v5)
+:[K[K [KESCESC[KOO[KBB[K        # Kerberized `rsh' (v5)
+:[K[K [KESCESC[KOO[KBB[K        # AFP over TCP
+:[K[K [KESCESC[KOO[KBB[K        # AFP over TCP
+:[K[K [KESCESC[KOO[KBB[Ker rfs  # Brunhoff remote filesystem
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K IANA and on most systems can be
+:[K[K [KESCESC[KOO[KBB[Kgrams executed by ordinary
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Kname the ends of logical
+:[K[K [KESCESC[KOO[KBB[Kersations.  For the purpose of
+:[K[K [KESCESC[KOO[KBB[K a service contact port is
+:[K[K [KESCESC[KOO[KBB[K used by the server process as
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K as a convienence to the
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # socks proxy server
+:[K[K [KESCESC[KOO[KBB[K        # socks proxy server
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K, but is also used by the
+:[K[K [KESCESC[KOO[KBB[K.  The official name is listed as
+:[K[K [KESCESC[KOO[KBB[Kd name as an alias.
+:[K[K [KESCESC[KOO[KBB[K        # Daniel J. Walsh, Gracilis Packeten remote config server
+:[K[K [KESCESC[KOO[KBB[K        # Daniel J. Walsh
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # H.323 Secure Call Control
+:[K[K [KESCESC[KOO[KBB[K        # H.323 Secure Call Control
+:[K[K [KESCESC[KOO[KBB[K        # Microsoft-SQL-Server
+:[K[K [KESCESC[KOO[KBB[K        # Microsoft-SQL-Server
+:[K[K [KESCESC[KOO[KBB[K        # Microsoft-SQL-Monitor
+:[K[K [KESCESC[KOO[KBB[K        # Microsoft-SQL-Monitor
+:[K[K [KESCESC[KOO[KBB[K        # Citrix ICA Client
+:[K[K [KESCESC[KOO[KBB[K        # Citrix ICA Client
+:[K[K [KESCESC[KOO[KBB[K        # Microsoft's Windows Internet Name Service
+:[K[K [KESCESC[KOO[KBB[K        # Microsoft's Windows Internet Name Service
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Prospero non-privileged/oracle
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Kus sightline    # datametrics / old radius entry
+:[K[K [KESCESC[KOO[KBB[Kus sightline    # datametrics / old radius entry
+:[K[K [KESCESC[KOO[KBB[Kcct     # sa-msg-port / old radacct entry
+:[K[K [KESCESC[KOO[KBB[Kcct     # sa-msg-port / old radacct entry
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Radius
+:[K[K [KESCESC[KOO[KBB[K        # Radius
+:[K[K [KESCESC[KOO[KBB[K        # Radius Accounting
+:[K[K [KESCESC[KOO[KBB[K        # Radius Accounting
+:[K[K [KESCESC[KOO[KBB[K        #
+:[K[K [KESCESC[KOO[KBB[K        #
+:[K[K [KESCESC[KOO[KBB[K        # Cisco Hot Standby Router Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Cisco Hot Standby Router Protocol
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # Cisco Gateway Discovery Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Cisco Gateway Discovery Protocol
+:[K[K [KESCESC[KOO[KBB[Kcp      # Sieve Mail Filter Daemon
+:[K[K [KESCESC[KOO[KBB[Kcp      # Sieve Mail Filter Daemon
+:[K[K [KESCESC[KOO[KBB[Klp      # Network File System
+:[K[K [KESCESC[KOO[KBB[Klp      # Network File System
+:[K[K [KESCESC[KOO[KBB[Klp      # Network File System
+:[K[K [KESCESC[KOO[KBB[K        # Zephyr server
+:[K[K [KESCESC[KOO[KBB[K        # Zephyr server
+:[K[K [KESCESC[KOO[KBB[K        # Zephyr serv-hm connection
+:[K[K [KESCESC[KOO[KBB[K        # Zephyr serv-hm connection
+:[K[K [KESCESC[KOO[KBB[K        # Zephyr hostmanager
+:[K[K [KESCESC[KOO[KBB[K        # Zephyr hostmanager
+:[K[K [KESCESC[KOO[KBB[K        # CVS client/server operations
+:[K[K [KESCESC[KOO[KBB[K        # CVS client/server operations
+:[K[K [KESCESC[KOO[KBB[K        # codacon port
+:[K[K [KESCESC[KOO[KBB[K        # Venus callback/wbc interface
+:[K[K [KESCESC[KOO[KBB[K        # tcp side effects
+:[K[K [KESCESC[KOO[KBB[K        # udp sftp side effect
+:[K[K [KESCESC[KOO[KBB[K        # not used
+:[K[K [KESCESC[KOO[KBB[K        # server port
+:[K[K [KESCESC[KOO[KBB[K        # tcp side effects
+:[K[K [KESCESC[KOO[KBB[K        # udp sftp side effectQ
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Ksed by the zebra package without
+:[K[K [KESCESC[KOO[KBB[Ke the registered names, and the
+:[K[K [KESCESC[KOO[KBB[Kisted as aliases.
+:[K[K [KESCESC[KOO[KBB[K        # HPSTGMGR
+:[K[K [KESCESC[KOO[KBB[K        # HPSTGMGR
+:[K[K [KESCESC[KOO[KBB[K        # discp client
+:[K[K [KESCESC[KOO[KBB[K        # discp client
+:[K[K [KESCESC[KOO[KBB[K        # discp server
+:[K[K [KESCESC[KOO[KBB[K        # discp server
+:[K[K [KESCESC[KOO[KBB[K        # Service Meter
+:[K[K [KESCESC[KOO[KBB[K        # Service Meter
+:[K[K [KESCESC[KOO[KBB[K        # NSC CCS
+:[K[K [KESCESC[KOO[KBB[K        # NSC CCS
+:[K[K [KESCESC[KOO[KBB[K        # NSC POSA
+:[K[K [KESCESC[KOO[KBB[K        # NSC POSA
+:[K[K [KESCESC[KOO[KBB[K        # Dell Netmon
+:[K[K [KESCESC[KOO[KBB[K        # Dell Netmon
+:[K[K [KESCESC[KOO[KBB[K        # RFC 2229
+:[K[K [KESCESC[KOO[KBB[K        # RFC 2229
+:[K[K [KESCESC[KOO[KBB[K        # CORBA naming service locator
+:[K[K [KESCESC[KOO[KBB[K        # Internet Cache Protocol V2 (Squid)
+:[K[K [KESCESC[KOO[KBB[K        # Internet Cache Protocol V2 (Squid)
+:[K[K [KESCESC[KOO[KBB[K        # MySQL
+:[K[K [KESCESC[KOO[KBB[K        # MySQL
+:[K[K [KESCESC[KOO[KBB[K        # Trnsprnt Proxy
+:[K[K [KESCESC[KOO[KBB[K        # Trnsprnt Proxy
+:[K[K [KESCESC[KOO[KBB[Kceboot  # PXE server
+:[K[K [KESCESC[KOO[KBB[K        # Cyrus IMAP FUD Daemon
+:[K[K [KESCESC[KOO[KBB[K        # Remote Who Is
+:[K[K [KESCESC[KOO[KBB[K        # Remote Who Is
+:[K[K [KESCESC[KOO[KBB[K        # Kerberos 5 to 4 ticket xlator
+:[K[K [KESCESC[KOO[KBB[K        # Kerberos 5 to 4 ticket xlator
+:[K[K [KESCESC[KOO[KBB[K        # Radio Free Ethernet
+:[K[K [KESCESC[KOO[KBB[K        # Actually uses UDP only
+:[K[K [KESCESC[KOO[KBB[K        # CFengine
+:[K[K [KESCESC[KOO[KBB[K        # CFengine
+:[K[K [KESCESC[KOO[KBB[K        # CVSup file transfer/John Polstra/FreeBSD
+:[K[K [KESCESC[KOO[KBB[K        # CVSup file transfer/John Polstra/FreeBSD
+:[K[K [KESCESC[KOO[KBB[K        # the X Window System
+:[K[K [KESCESC[KOO[KBB[K        # file server itself
+:[K[K [KESCESC[KOO[KBB[K        # file server itself
+:[K[K [KESCESC[KOO[KBB[K        # callbacks to cache managers
+:[K[K [KESCESC[KOO[KBB[K        # callbacks to cache managers
+:[K[K [KESCESC[KOO[KBB[K        # users & groups database
+:[K[K [KESCESC[KOO[KBB[K        # users & groups database
+:[K[K [KESCESC[KOO[KBB[K        # volume location database
+:[K[K [KESCESC[KOO[KBB[K        # volume location database
+:[K[K [KESCESC[KOO[KBB[K        # AFS/Kerberos authentication service
+:[K[K [KESCESC[KOO[KBB[K        # AFS/Kerberos authentication service
+:[K[K [KESCESC[KOO[KBB[K        # volume managment server
+:[K[K [KESCESC[KOO[KBB[K        # volume managment server
+:[K[K [KESCESC[KOO[KBB[K        # error interpretation service
+:[K[K [KESCESC[KOO[KBB[K        # error interpretation service
+:[K[K [KESCESC[KOO[KBB[K        # basic overseer process
+:[K[K [KESCESC[KOO[KBB[K        # basic overseer process
+:[K[K [KESCESC[KOO[KBB[K        # server-to-server updater
+:[K[K [KESCESC[KOO[KBB[K        # server-to-server updater
+:[K[K [KESCESC[KOO[KBB[K        # remote cache manager service
+:[K[K [KESCESC[KOO[KBB[K        # remote cache manager service
+:[K[K [KESCESC[KOO[KBB[K        # amanda backup services
+:[K[K [KESCESC[KOO[KBB[K        # amanda backup services
+:[K[K [KESCESC[KOO[KBB[K        # PGP/GPG public keyserver
+:[K[K [KESCESC[KOO[KBB[K        # PGP/GPG public keyserver
+:[K[K [KESCESC[KOO[KBB[K        # ASG Cypress Secure Only
+:[K[K [KESCESC[KOO[KBB[K        # H323 Call Signal Alternate
+:[K[K [KESCESC[KOO[KBB[K        # H323 Call Signal Alternate
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K        # BPRD (VERITAS NetBackup)
+:[K[K [KESCESC[KOO[KBB[K        # BPRD (VERITAS NetBackup)
+:[K[K [KESCESC[KOO[KBB[K        # BPDBM (VERITAS NetBackup)
+:[K[K [KESCESC[KOO[KBB[K        # BPDBM (VERITAS NetBackup)
+:[K[K [KESCESC[KOO[KBB[K        # BP Java MSVC Protocol
+:[K[K [KESCESC[KOO[KBB[K        # BP Java MSVC Protocol
+:[K[K [KESCESC[KOO[KBB[K        # Veritas Network Utility
+:[K[K [KESCESC[KOO[KBB[K        # Veritas Network Utility
+:[K[K [KESCESC[KOO[KBB[K        # VERITAS NetBackup
+:[K[K [KESCESC[KOO[KBB[K        # VERITAS NetBackup
+:[K[K [KESCESC[KOO[KBB[K        # VOPIED Protocol
+:[K[K [KESCESC[KOO[KBB[K        # VOPIED Protocol
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[Klso used under the unregistered name
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KDD[H[2J[Hbprd            13720/tcp                       # BPRD (VERITAS NetBackup)
+bprd            13720/udp                       # BPRD (VERITAS NetBackup)
+bpdbm           13721/tcp                       # BPDBM (VERITAS NetBackup)
+bpdbm           13721/udp                       # BPDBM (VERITAS NetBackup)
+bpjava-msvc     13722/tcp                       # BP Java MSVC Protocol
+bpjava-msvc     13722/udp                       # BP Java MSVC Protocol
+vnetd           13724/tcp                       # Veritas Network Utility
+vnetd           13724/udp                       # Veritas Network Utility
+bpcd            13782/tcp                       # VERITAS NetBackup
+bpcd            13782/udp                       # VERITAS NetBackup
+vopied          13783/tcp                       # VOPIED Protocol
+vopied          13783/udp                       # VOPIED Protocol
+
+# This port is registered as wnn6, but also used under the unregistered name
+# "wnn4" by the FreeWnn package.
+wnn6            22273/tcp       wnn4
+wnn6            22273/udp       wnn4
+
+quake           26000/tcp
+quake           26000/udp
+wnn6-ds         26208/tcp
+wnn6-ds         26208/udp
+traceroute      33434/tcp
+:[K[K [KESCESC[KOO[KDD[H[2J[Hbprd            13720/tcp                       # BPRD (VERITAS NetBackup)
+bprd            13720/udp                       # BPRD (VERITAS NetBackup)
+bpdbm           13721/tcp                       # BPDBM (VERITAS NetBackup)
+bpdbm           13721/udp                       # BPDBM (VERITAS NetBackup)
+bpjava-msvc     13722/tcp                       # BP Java MSVC Protocol
+bpjava-msvc     13722/udp                       # BP Java MSVC Protocol
+vnetd           13724/tcp                       # Veritas Network Utility
+vnetd           13724/udp                       # Veritas Network Utility
+bpcd            13782/tcp                       # VERITAS NetBackup
+bpcd            13782/udp                       # VERITAS NetBackup
+vopied          13783/tcp                       # VOPIED Protocol
+vopied          13783/udp                       # VOPIED Protocol
+
+# This port is registered as wnn6, but also used under the unregistered name
+# "wnn4" by the FreeWnn package.
+wnn6            22273/tcp       wnn4
+wnn6            22273/udp       wnn4
+
+quake           26000/tcp
+quake           26000/udp
+wnn6-ds         26208/tcp
+wnn6-ds         26208/udp
+traceroute      33434/tcp
+:[K[K [KESCESC[KOO[KAA[K[HM
+[24;1H[K:[K[K [KESCESC[KOO[KBB[Ktraceroute      33434/tcp
+:[K[K [KESCESC[KOO[KBB[Ktraceroute      33434/udp
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K[?1l>[?1049l]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ lpr practice
+bash: lpr: command not found
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls fox
+ls: cannot access fox: No such file or directory
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ vim fox
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"fox" [New File][>c[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll[1;1H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H0,1[11CAll[1;1H[?12l[?25h[?25ln[24;63H1,2[1;2H[?12l[?25h[?25li[24;65H3[1;3H[?12l[?25h[?25lm[24;65H4[1;4H[?12l[?25h[?25la[24;65H5[1;5H[?12l[?25h[?25ll[24;65H6[1;6H[?12l[?25h[?25l[24;65H5[1;5H[?12l[?25h[?25l[24;65H4[1;4H[?12l[?25h[?25l[24;65H3[1;3H[?12l[?25h[?25l[24;65H2[1;2H[?12l[?25h[?25l[24;65H1[1;1H[?12l[?25h[?25lanimal[24;65H2[1;2H[?12l[?25h[?25l[24;65H3[1;3H[?12l[?25h[?25l[24;65H4[1;4H[?12l[?25h[?25l[24;65H5[1;5H[?12l[?25h[?25l[24;65H6[1;6H[?12l[?25h[24;1H[K[1;5H[?25l[24;63H1,5[11CAll[1;5H[?12l[?25h[?25l[24;1H"fox"[24;63H[K[24;7H[New] 1L, 7C written
+[?1l>[?12l[?25h[?1049l]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls fox
+fox
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ man man
+[?1049h[?1h=MAN(1)                        Manual pager utils                        MAN(1)[m
+[m
+[1mNAME[0m[m
+       man - an interface to the on-line reference manuals[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mman[0m  [[1m-C[0m  [4mfile[24m]  [[1m-d[0m]  [[1m-D[0m]  [[1m--warnings[0m[=[4mwarnings[24m]]  [[1m-R[0m [4mencoding[24m] [[1m-L[0m[m
+       [4mlocale[24m] [[1m-m[0m [4msystem[24m[,...]] [[1m-M[0m [4mpath[24m] [[1m-S[0m [4mlist[24m]  [[1m-e[0m  [4mextension[24m]  [[1m-i[0m|[1m-I[0m][m
+       [[1m--regex[0m|[1m--wildcard[0m]   [[1m--names-only[0m]  [[1m-a[0m]  [[1m-u[0m]  [[1m--no-subpages[0m]  [[1m-P[0m[m
+       [4mpager[24m] [[1m-r[0m [4mprompt[24m] [[1m-7[0m] [[1m-E[0m [4mencoding[24m] [[1m--no-hyphenation[0m] [[1m--no-justifi‐[0m[m
+       [1mcation[0m]  [[1m-p[0m  [4mstring[24m]  [[1m-t[0m]  [[1m-T[0m[[4mdevice[24m]]  [[1m-H[0m[[4mbrowser[24m]] [[1m-X[0m[[4mdpi[24m]] [[1m-Z[0m][m
+       [[[4msection[24m] [4mpage[24m ...] ...[m
+       [1mman[0m [1m-k[0m [[4mapropos[24m [4moptions[24m] [4mregexp[24m ...[m
+       [1mman[0m [1m-K[0m [[1m-w[0m|[1m-W[0m] [[1m-S[0m [4mlist[24m] [[1m-i[0m|[1m-I[0m] [[4m--regex[24m] [[4msection[24m] [4mterm[24m ...[m
+       [1mman[0m [1m-f[0m [[4mwhatis[24m [4moptions[24m] [4mpage[24m ...[m
+       [1mman[0m [1m-l[0m [[1m-C[0m [4mfile[24m] [[1m-d[0m] [[1m-D[0m] [[1m--warnings[0m[=[4mwarnings[24m]]  [[1m-R[0m  [4mencoding[24m]  [[1m-L[0m[m
+       [4mlocale[24m]  [[1m-P[0m  [4mpager[24m]  [[1m-r[0m  [4mprompt[24m]  [[1m-7[0m] [[1m-E[0m [4mencoding[24m] [[1m-p[0m [4mstring[24m] [[1m-t[0m][m
+       [[1m-T[0m[[4mdevice[24m]] [[1m-H[0m[[4mbrowser[24m]] [[1m-X[0m[[4mdpi[24m]] [[1m-Z[0m] [4mfile[24m ...[m
+       [1mman[0m [1m-w[0m|[1m-W[0m [[1m-C[0m [4mfile[24m] [[1m-d[0m] [[1m-D[0m] [4mpage[24m ...[m
+       [1mman[0m [1m-c[0m [[1m-C[0m [4mfile[24m] [[1m-d[0m] [[1m-D[0m] [4mpage[24m ...[m
+       [1mman[0m [[1m-?V[0m][m
+[m
+[1mDESCRIPTION[0m[m
+[7m Manual page man(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ mkdir two
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ rmdir two
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ rm practice
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ sort dat[Kys
+sort: cannot read: days: No such file or directory
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls days
+ls: cannot access days: No such file or directory
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ cat days
+cat: days: No such file or directory
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ touch dog
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ type f[Kdays
+bash: type: days: not found
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ vim practice
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"practice" [New File][>c[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll[1;1H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H2,1[11CAll[2;1H[K[2;1H[?12l[?25h[?25l[24;65H2[2;2H[?12l[?25h[?25l[24;65H1[2;1H[?12l[?25h[?25l[1m[34m~                                                                               [m[24;63H1[1;1H[?12l[?25h[?25lh[24;65H2[1;2H[?12l[?25h[?25le[24;65H3[1;3H[?12l[?25h[?25ll[24;65H4[1;4H[?12l[?25h[?25ll[24;65H5[1;5H[?12l[?25h[?25lo[24;65H6[1;6H[?12l[?25h[?25l[24;65H7[1;7H[?12l[?25h[?25lw[24;65H8[1;8H[?12l[?25h[?25lo[24;65H9[1;9H[?12l[?25h[?25lr[24;65H10[1;10H[?12l[?25h[?25ll[24;66H1[1;11H[?12l[?25h[?25ld[24;66H2[1;12H[?12l[?25h[?25l![24;66H3[1;13H[?12l[?25h[24;1H[K[1;12H[?25l[24;63H1,12[10CAll[1;12H[?12l[?25h[?25l[24;1H"practice"[24;63H[K[24;12H[New] 1L, 13C written
+[?1l>[?12l[?25h[?1049l]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ cp practice practice [K2
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ grep small practice
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls practice xxxx
+ls: cannot access xxxx: No such file or directory
+practice
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ mv practice [K2 practice
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ cat --help
+Usage: cat [OPTION]... [FILE]...
+Concatenate FILE(s), or standard input, to standard output.
+
+  -A, --show-all           equivalent to -vET
+  -b, --number-nonblank    number nonempty output lines, overrides -n
+  -e                       equivalent to -vE
+  -E, --show-ends          display $ at end of each line
+  -n, --number             number all output lines
+  -s, --squeeze-blank      suppress repeated empty output lines
+  -t                       equivalent to -vT
+  -T, --show-tabs          display TAB characters as ^I
+  -u                       (ignored)
+  -v, --show-nonprinting   use ^ and M- notation, except for LFD and TAB
+      --help     display this help and exit
+      --version  output version information and exit
+
+With no FILE, or when FILE is -, read standard input.
+
+Examples:
+  cat f - g  Output f's contents, then standard input, then g's contents.
+  cat        Copy standard input to standard output.
+
+GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+For complete documentation, run: info coreutils 'cat invocation'
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls -l dog
+-rw-r--r-- 1 ssayed10 users 0 Oct  7 13:31 dog
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls --help
+Usage: ls [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      scale sizes by SIZE before printing them; e.g.,
+                               '--block-size=M' prints sizes in units of
+                               1,048,576 bytes; see SIZE format below
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                               modification of file status information);
+                               with -l: show ctime and sort by name;
+                               otherwise: sort by ctime, newest first
+  -C                         list entries by columns
+      --color[=WHEN]         colorize the output; WHEN can be 'never', 'auto',
+                               or 'always' (the default); more info below
+  -d, --directory            list directories themselves, not their contents
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         do not sort, enable -aU, disable -ls --color
+  -F, --classify             append indicator (one of */=>@|) to entries
+      --file-type            likewise, except do not append '*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                               single-column -1, verbose -l, vertical -C
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files;
+                               can be augmented with a --sort option, but any
+                               use of --sort=none (-U) disables grouping
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l, print sizes in human readable format
+                               (e.g., 1K 234M 2G)
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                               that points to a directory
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                               (overridden by -a or -A)
+      --indicator-style=WORD  append indicator with style WORD to entry names:
+                               none (default), slash (-p),
+                               file-type (--file-type), classify (-F)
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k, --kibibytes            default to 1024-byte blocks for disk usage
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                               link, show information for the file the link
+                               references rather than for the link itself
+  -m                         fill width with a comma separated list of entries
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -N, --literal              print raw entry names (don't treat e.g. control
+                               characters specially)
+  -o                         like -l, but do not list group information
+  -p, --indicator-style=slash
+                             append / indicator to directories
+  -q, --hide-control-chars   print ? instead of nongraphic characters
+      --show-control-chars   show nongraphic characters as-is (the default,
+                               unless program is 'ls' and output is a terminal)
+  -Q, --quote-name           enclose entry names in double quotes
+      --quoting-style=WORD   use quoting style WORD for entry names:
+                               literal, locale, shell, shell-always, c, escape
+  -r, --reverse              reverse order while sorting
+  -R, --recursive            list subdirectories recursively
+  -s, --size                 print the allocated size of each file, in blocks
+  -S                         sort by file size
+      --sort=WORD            sort by WORD instead of name: none (-U), size (-S),
+                               time (-t), version (-v), extension (-X)
+      --time=WORD            with -l, show time as WORD instead of default
+                               modification time: atime or access or use (-u)
+                               ctime or status (-c); also use specified time
+                               as sort key if --sort=time
+      --time-style=STYLE     with -l, show times using style STYLE:
+                               full-iso, long-iso, iso, locale, or +FORMAT;
+                               FORMAT is interpreted like in 'date'; if FORMAT
+                               is FORMAT1<newline>FORMAT2, then FORMAT1 applies
+                               to non-recent files and FORMAT2 to recent files;
+                               if STYLE is prefixed with 'posix-', STYLE
+                               takes effect only outside the POSIX locale
+  -t                         sort by modification time, newest first
+  -T, --tabsize=COLS         assume tab stops at each COLS instead of 8
+  -u                         with -lt: sort by, and show, access time;
+                               with -l: show access time and sort by name;
+                               otherwise: sort by access time
+  -U                         do not sort; list entries in directory order
+  -v                         natural sort of (version) numbers within text
+  -w, --width=COLS           assume screen width instead of current value
+  -x                         list entries by lines instead of by columns
+  -X                         sort alphabetically by entry extension
+  -1                         list one file per line
+
+SELinux options:
+
+  --lcontext                 Display security context.   Enable -l. Lines
+                             will probably be too wide for most displays.
+  -Z, --context              Display security context so it fits on most
+                             displays.  Displays only mode, user, group,
+                             security context and file name.
+  --scontext                 Display only security context and file name.
+      --help     display this help and exit
+      --version  output version information and exit
+
+SIZE is an integer and optional unit (example: 10M is 10*1024*1024).  Units
+are K, M, G, T, P, E, Z, Y (powers of 1024) or KB, MB, ... (powers of 1000).
+
+Using color to distinguish file types is disabled both by default and
+with --color=never.  With --color=auto, ls emits color codes only when
+standard output is connected to a terminal.  The LS_COLORS environment
+variable can change the settings.  Use the dircolors command to set it.
+
+Exit status:
+ 0  if OK,
+ 1  if minor problems (e.g., cannot access subdirectory),
+ 2  if serious trouble (e.g., cannot access command-line argument).
+
+GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+For complete documentation, run: info coreutils 'ls invocation'
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls --[Kr
+practice  fox  dog
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ cp -r
+cp: missing file operand
+Try 'cp --help' for more information.
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls cp -r
+ls: cannot access cp: No such file or directory
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ cp -r
+cp: missing file operand
+Try 'cp --help' for more information.
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ --version
+bash: --version: command not found
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ [K[ssayed10@mtrx-node01pd two]$ echo hi there
+hi there
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ echo hi there[1@e[1@l[1@l[1@o[C[1P there
+hello there
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ [[K{[K^hi{[K^hello^
+bash: :s^hi^hello^: substitution failed
+[ssayed10@mtrx-node01pd two]$ echo hi there
+hi there
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ 6[K^hi^helo[K[Kllo^
+echo hello there
+hello there
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls /usr/bin/*ab*
+[0m[01;32m/usr/bin/ab[0m                  [01;36m/usr/bin/psfstriptable[0m
+[01;32m/usr/bin/abs2rel[0m             [01;32m/usr/bin/psfxtable[0m
+[37;41m/usr/bin/crontab[0m             [01;32m/usr/bin/slabtop[0m
+[01;32m/usr/bin/fab[0m                 [01;32m/usr/bin/snmptable[0m
+[01;32m/usr/bin/grub2-render-label[0m  [01;32m/usr/bin/tabs[0m
+[01;36m/usr/bin/iptables-xml[0m        [01;32m/usr/bin/update-desktop-database[0m
+[01;36m/usr/bin/psfaddtable[0m         [01;32m/usr/bin/update-mime-database[0m
+[01;36m/usr/bin/psfgettable[0m         [01;32m/usr/bin/urlgrabber[0m
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls/[K /ust[Kr/bin/u*
+[0m[01;32m/usr/bin/ucs2any[0m        [01;32m/usr/bin/unshare[0m
+[01;32m/usr/bin/udevadm[0m        [01;32m/usr/bin/unwrapdiff[0m
+[01;32m/usr/bin/udisksctl[0m      [01;36m/usr/bin/unxz[0m
+[01;32m/usr/bin/uil[0m            [01;32m/usr/bin/unzip[0m
+[01;32m/usr/bin/ul[0m             [01;32m/usr/bin/unzipsfx[0m
+[01;32m/usr/bin/umask[0m          [01;32m/usr/bin/update-ca-trust[0m
+[37;41m/usr/bin/umount[0m         [01;32m/usr/bin/update-desktop-database[0m
+[01;32m/usr/bin/unalias[0m        [01;32m/usr/bin/update-gtk-immodules[0m
+[01;32m/usr/bin/uname[0m          [01;32m/usr/bin/update-mime-database[0m
+[01;32m/usr/bin/unexpand[0m       [01;32m/usr/bin/uptime[0m
+[01;32m/usr/bin/unflatten[0m      [01;32m/usr/bin/urlgrabber[0m
+[01;32m/usr/bin/unicode_start[0m  [01;32m/usr/bin/users[0m
+[01;32m/usr/bin/unicode_stop[0m   [01;32m/usr/bin/usleep[0m
+[01;32m/usr/bin/uniq[0m           [01;32m/usr/bin/usx2yloader[0m
+[01;32m/usr/bin/unix-lpr.sh[0m    [01;32m/usr/bin/utmpdump[0m
+[01;32m/usr/bin/unlink[0m         [01;32m/usr/bin/uuclient[0m
+[01;36m/usr/bin/unlz4[0m          [01;32m/usr/bin/uuidgen[0m
+[01;36m/usr/bin/unpack200[0m      [01;32m/usr/bin/uxterm[0m
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls /usr/bin/un*
+[0m[01;32m/usr/bin/unalias[0m        [01;32m/usr/bin/uniq[0m         [01;32m/usr/bin/unwrapdiff[0m
+[01;32m/usr/bin/uname[0m          [01;32m/usr/bin/unix-lpr.sh[0m  [01;36m/usr/bin/unxz[0m
+[01;32m/usr/bin/unexpand[0m       [01;32m/usr/bin/unlink[0m       [01;32m/usr/bin/unzip[0m
+[01;32m/usr/bin/unflatten[0m      [01;36m/usr/bin/unlz4[0m        [01;32m/usr/bin/unzipsfx[0m
+[01;32m/usr/bin/unicode_start[0m  [01;36m/usr/bin/unpack200[0m
+[01;32m/usr/bin/unicode_stop[0m   [01;32m/usr/bin/unshare[0m
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ ls /use[Kr/bin [K/?
+[0m[01;32m/usr/bin/[[0m  [01;32m/usr/bin/w[0m
+]0;ssayed10@mtrx-node01pd:~/two[ssayed10@mtrx-node01pd two]$ cd
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ ls .bash*
+.bash_history  .bash_logout  .bash_profile  .bashrc
+]0;ssayed10@mtrx-node01pd:~[ssayed10@mtrx-node01pd ~]$ exit
+exit
+
+Script done on Mon 07 Oct 2019 01:49:43 PM EDT

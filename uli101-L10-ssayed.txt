@@ -1,0 +1,396 @@
+login as: ssayed10
+######################################################################
+#
+# Welcome to Matrix
+#
+# You are accessing a private utility and information that is strictly
+# confidential on a server owned by Seneca College and maintained by
+# Information Technology Services
+#
+# All connection attempts are logged and strictly monitored.
+# All unauthorized connection attempts will be fully investigated
+# and dealt with appropriately.
+#
+# All activities on this system are governed by
+# Seneca Information Technology Acceptable Use Policy
+# For complete ITAU policy visit http://www.senecacollege.ca/policies/itau.html
+#
+######################################################################
+ssayed10@matrix.senecac.on.ca's password:
+Last login: Thu Oct 24 19:16:02 2019 from 10.40.46.79
+[ssayed10@mtrx-node01pd ~]$ script uli101-L10-ssayed.txt
+Script started, file is uli101-L10-ssayed.txt
+[ssayed10@mtrx-node01pd ~]$ date
+Fri Nov 15 13:37:57 EST 2019
+[ssayed10@mtrx-node01pd ~]$ whoami
+ssayed10
+[ssayed10@mtrx-node01pd ~]$ head /etc/services
+# /etc/services:
+# $Id: services,v 1.55 2013/04/14 ovasik Exp $
+#
+# Network services, Internet style
+# IANA services version: last updated 2013-04-10
+#
+# Note that it is presently the policy of IANA to assign a single well-known
+# port number for both TCP and UDP; hence, most entries here have two entries
+# even if the protocol doesn't support UDP operations.
+# Updated from RFC 1700, ``Assigned Numbers'' (October 1994).  Not all ports
+[ssayed10@mtrx-node01pd ~]$ ls /etc
+adjtime                  inittab                   profile
+aliases                  inputrc                   profile.d
+aliases.db               iproute2                  profile.org
+alternatives             issue                     profile.rpmnew
+anacrontab               issue.net                 profile.sep10
+ant.conf                 java                      protocols
+ant.d                    jvm                       python
+asound.conf              jvm-commmon               rc0.d
+at.allow                 kdump.conf                rc1.d
+audisp                   kernel                    rc2.d
+audit                    krb5.conf                 rc3.d
+bash.bashrc              krb5.conf.d               rc4.d
+bash_completion.d        kshrc                     rc5.d
+bashrc                   ld.so.cache               rc6.d
+binfmt.d                 ld.so.conf                rc.d
+centos-release           ld.so.conf.d              rc.local
+centos-release-upstream  libaudit.conf             redhat-release
+chkconfig.d              libblockdev               request-key.conf
+chrony.conf              libnl                     request-key.d
+chrony.keys              libreport                 resolv.conf
+common-lisp              libuser.conf              rpc
+cron.allow               lisp-config.lisp          rpm
+cron.d                   locale.conf               rsyncd.conf
+cron.daily               localtime                 rsyslog.conf
+cron.deny                login.defs                rsyslog.d
+cron.hourly              logrotate.conf            rvmrc
+cron.monthly             logrotate.d               rwtab
+crontab                  lvm                       rwtab.d
+cron.weekly              lynx.cfg                  sasl2
+crypttab                 lynx.lss                  sbcl.rc
+csh.cshrc                lynx-site.cfg             screenrc
+csh.login                machine-id                securetty
+dbus-1                   magic                     security
+dconf                    mailcap                   selinux
+default                  mail.rc                   services
+depmod.d                 makedumpfile.conf.sample  sestatus.conf
+dhcp                     man_db.conf               sgml
+DIR_COLORS               maven                     shadow
+DIR_COLORS.256color      mc                        shadow-
+DIR_COLORS.lightbgcolor  mercurial                 shells
+dracut.conf              mime.types                shells.rpmnew
+dracut.conf.d            mke2fs.conf               skel
+e2fsck.conf              modprobe.d                smi.conf
+egl                      modules-load.d            snmp
+environment              motd                      ssh
+ethertypes               mtab                      ssl
+exports                  multipath                 statetab
+exports.d                nanorc                    statetab.d
+fail2ban                 netconfig                 subgid
+favicon.png              NetworkManager            subuid
+filesystems              networks                  subversion
+firewalld                nfs.conf                  sudo.conf
+fonts                    nfsmount.conf             sudoers
+fstab                    nscd.conf                 sudoers.d
+gconf                    nslcd.conf                sudoers.rpmnew
+gcrypt                   nslcd.conf.apr26          sudo-ldap.conf
+gdbinit                  nslcd.conf.rpmsave        sysconfig
+gdbinit.d                nsswitch.conf             sysctl.conf
+GeoIP.conf               nsswitch.conf.apr30       sysctl.d
+GeoIP.conf.default       nsswitch.conf.bak         systemd
+ghostscript              ntp                       system-release
+glvnd                    ntp.conf                  system-release-cpe
+gnupg                    odbcinst.ini              tcsd.conf
+GREP_COLORS              openldap                  terminfo
+groff                    opt                       tmpfiles.d
+group                    os-release                trusted-key.key
+group-                   pam.d                     tuned
+grub2.cfg                passwd                    udev
+grub2-efi.cfg            passwd-                   udisks2
+grub.d                   pear                      vconsole.conf
+gshadow                  pear.conf                 vimrc
+gshadow-                 php.d                     virc
+gss                      php.ini                   wgetrc
+gssproxy                 php-zts.d                 whois.conf
+host.conf                pkcs11                    wpa_supplicant
+hostname                 pki                       X11
+hosts                    plymouth                  xdg
+hosts.allow              pm                        xinetd.d
+hosts.apr20              polkit-1                  xml
+hosts.deny               popt.d                    yp.conf
+httpd                    postfix                   yum
+idmapd.conf              ppp                       yum.conf
+ImageMagick              prelink.conf.d            yum.repos.d
+init.d                   printcap                  zprofile
+[ssayed10@mtrx-node01pd ~]$ who
+aguled5  pts/0        2019-11-15 13:21 (10.32.130.158)
+root     pts/1        2019-11-15 11:33 (10.102.108.30)
+skim171  pts/2        2019-11-15 13:05 (10.248.171.156)
+ssayed10 pts/3        2019-11-15 13:27 (99.237.242.226)
+jlheureux-beaulieu pts/4        2019-11-15 13:34 (10.32.131.229)
+ssayed10 pts/5        2019-11-15 13:37
+xwang345 pts/7        2019-11-15 12:08 (10.32.130.33)
+amashud  pts/12       2019-11-15 12:09 (10.248.210.84)
+chuang82 pts/16       2019-11-15 10:58 (10.248.25.29)
+[ssayed10@mtrx-node01pd ~]$ date
+Fri Nov 15 13:38:51 EST 2019
+[ssayed10@mtrx-node01pd ~]$ uname -a
+Linux mtrx-node01pd.dcm.senecacollege.ca 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul                                                                                       29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+[ssayed10@mtrx-node01pd ~]$ history | tail
+  428  2019-11-14 22:25:22 long ~/ .bash_profile
+  429  2019-11-14 22:18:23 script uli101-L10-ssayed.txt
+  430  2019-11-15 13:37:57 date
+  431  2019-11-15 13:38:01 whoami
+  432  2019-11-15 13:38:21 head /etc/services
+  433  2019-11-15 13:38:31 ls /etc
+  434  2019-11-15 13:38:42 who
+  435  2019-11-15 13:38:51 date
+  436  2019-11-15 13:38:59 uname -a
+  437  2019-11-15 13:39:50 history | tail
+[ssayed10@mtrx-node01pd ~]$ !433
+ls /etc
+adjtime                  inittab                   profile
+aliases                  inputrc                   profile.d
+aliases.db               iproute2                  profile.org
+alternatives             issue                     profile.rpmnew
+anacrontab               issue.net                 profile.sep10
+ant.conf                 java                      protocols
+ant.d                    jvm                       python
+asound.conf              jvm-commmon               rc0.d
+at.allow                 kdump.conf                rc1.d
+audisp                   kernel                    rc2.d
+audit                    krb5.conf                 rc3.d
+bash.bashrc              krb5.conf.d               rc4.d
+bash_completion.d        kshrc                     rc5.d
+bashrc                   ld.so.cache               rc6.d
+binfmt.d                 ld.so.conf                rc.d
+centos-release           ld.so.conf.d              rc.local
+centos-release-upstream  libaudit.conf             redhat-release
+chkconfig.d              libblockdev               request-key.conf
+chrony.conf              libnl                     request-key.d
+chrony.keys              libreport                 resolv.conf
+common-lisp              libuser.conf              rpc
+cron.allow               lisp-config.lisp          rpm
+cron.d                   locale.conf               rsyncd.conf
+cron.daily               localtime                 rsyslog.conf
+cron.deny                login.defs                rsyslog.d
+cron.hourly              logrotate.conf            rvmrc
+cron.monthly             logrotate.d               rwtab
+crontab                  lvm                       rwtab.d
+cron.weekly              lynx.cfg                  sasl2
+crypttab                 lynx.lss                  sbcl.rc
+csh.cshrc                lynx-site.cfg             screenrc
+csh.login                machine-id                securetty
+dbus-1                   magic                     security
+dconf                    mailcap                   selinux
+default                  mail.rc                   services
+depmod.d                 makedumpfile.conf.sample  sestatus.conf
+dhcp                     man_db.conf               sgml
+DIR_COLORS               maven                     shadow
+DIR_COLORS.256color      mc                        shadow-
+DIR_COLORS.lightbgcolor  mercurial                 shells
+dracut.conf              mime.types                shells.rpmnew
+dracut.conf.d            mke2fs.conf               skel
+e2fsck.conf              modprobe.d                smi.conf
+egl                      modules-load.d            snmp
+environment              motd                      ssh
+ethertypes               mtab                      ssl
+exports                  multipath                 statetab
+exports.d                nanorc                    statetab.d
+fail2ban                 netconfig                 subgid
+favicon.png              NetworkManager            subuid
+filesystems              networks                  subversion
+firewalld                nfs.conf                  sudo.conf
+fonts                    nfsmount.conf             sudoers
+fstab                    nscd.conf                 sudoers.d
+gconf                    nslcd.conf                sudoers.rpmnew
+gcrypt                   nslcd.conf.apr26          sudo-ldap.conf
+gdbinit                  nslcd.conf.rpmsave        sysconfig
+gdbinit.d                nsswitch.conf             sysctl.conf
+GeoIP.conf               nsswitch.conf.apr30       sysctl.d
+GeoIP.conf.default       nsswitch.conf.bak         systemd
+ghostscript              ntp                       system-release
+glvnd                    ntp.conf                  system-release-cpe
+gnupg                    odbcinst.ini              tcsd.conf
+GREP_COLORS              openldap                  terminfo
+groff                    opt                       tmpfiles.d
+group                    os-release                trusted-key.key
+group-                   pam.d                     tuned
+grub2.cfg                passwd                    udev
+grub2-efi.cfg            passwd-                   udisks2
+grub.d                   pear                      vconsole.conf
+gshadow                  pear.conf                 vimrc
+gshadow-                 php.d                     virc
+gss                      php.ini                   wgetrc
+gssproxy                 php-zts.d                 whois.conf
+host.conf                pkcs11                    wpa_supplicant
+hostname                 pki                       X11
+hosts                    plymouth                  xdg
+hosts.allow              pm                        xinetd.d
+hosts.apr20              polkit-1                  xml
+hosts.deny               popt.d                    yp.conf
+httpd                    postfix                   yum
+idmapd.conf              ppp                       yum.conf
+ImageMagick              prelink.conf.d            yum.repos.d
+init.d                   printcap                  zprofile
+[ssayed10@mtrx-node01pd ~]$ history | tail
+  430  2019-11-15 13:37:57 date
+  431  2019-11-15 13:38:01 whoami
+  432  2019-11-15 13:38:21 head /etc/services
+  433  2019-11-15 13:38:31 ls /etc
+  434  2019-11-15 13:38:42 who
+  435  2019-11-15 13:38:51 date
+  436  2019-11-15 13:38:59 uname -a
+  437  2019-11-15 13:39:50 history | tail
+  438  2019-11-15 13:40:11 ls /etc
+  439  2019-11-15 13:40:34 history | tail
+[ssayed10@mtrx-node01pd ~]$ !-4
+uname -a
+Linux mtrx-node01pd.dcm.senecacollege.ca 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul                                                                                       29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+[ssayed10@mtrx-node01pd ~]$ !!
+uname -a
+Linux mtrx-node01pd.dcm.senecacollege.ca 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul                                                                                       29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+[ssayed10@mtrx-node01pd ~]$ !head
+head /etc/services
+# /etc/services:
+# $Id: services,v 1.55 2013/04/14 ovasik Exp $
+#
+# Network services, Internet style
+# IANA services version: last updated 2013-04-10
+#
+# Note that it is presently the policy of IANA to assign a single well-known
+# port number for both TCP and UDP; hence, most entries here have two entries
+# even if the protocol doesn't support UDP operations.
+# Updated from RFC 1700, ``Assigned Numbers'' (October 1994).  Not all ports
+[ssayed10@mtrx-node01pd ~]$ alias d='date'
+[ssayed10@mtrx-node01pd ~]$ d
+Fri Nov 15 13:41:54 EST 2019
+[ssayed10@mtrx-node01pd ~]$ alias ls='ls -l'
+[ssayed10@mtrx-node01pd ~]$ ls
+total 348
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:39 aa bb
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:44 aa bb.bak
+-rwxr--r-- 1 ssayed10 users   146 Nov  7 20:43 cptobak
+-rw-r--r-- 1 ssayed10 users     0 Nov 14 22:03 date
+-rw-r--r-- 1 ssayed10 users    57 Oct 17 19:12 days
+-r--r--r-- 1 ssayed10 users     0 Oct  3 14:05 dog
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:08 first
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:37 first.bak
+-rw-r--r-- 1 ssayed10 users     9 Oct 17 19:09 hi.file
+-rw-r--r-- 1 ssayed10 users     0 Oct 17 19:14 ls.big
+-rw-r--r-- 1 ssayed10 users  1899 Oct 17 19:10 ls.out
+-rw-r--r-- 1 ssayed10 users   975 Oct 17 19:10 ls.output
+-rwxrwxrwx 1 ssayed10 users   152 Nov  7 21:09 mine
+-rw-r--r-- 1 ssayed10 users   230 Oct 24 19:31 pizza
+-rw-r--r-- 1 ssayed10 users    51 Oct  2 13:26 practice
+-rw-r--r-- 1 ssayed10 users 24576 Oct 26 13:27 practice.txt
+drwx---r-x 3 ssayed10 users    39 May  2  2018 public_html
+-rw-r--r-- 1 ssayed10 users    67 Oct 26 13:25 shabnoor
+-rwxr--r-- 1 ssayed10 users    89 Nov  7 20:02 short
+drwxr-xr-x 2 ssayed10 users    44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users 16384 Nov 15 13:41 uli101-L10-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   797 Oct  9 01:58 uli101-L6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  5726 Oct 17 19:14 uli101-l6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16792 Oct 24 19:31 uli101-L7-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 64035 Nov  7 20:44 uli101-L8-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 30665 Nov 14 22:15 uli101-L9-ssayed.txt
+[ssayed10@mtrx-node01pd ~]$ \ls
+aa bb      hi.file       public_html            uli101-L4-ssayed.txt
+aa bb.bak  ls.big        shabnoor               uli101-L5-ssayed.txt
+cptobak    ls.out        short                  uli101-L6-ssayed.txt
+date       ls.output     two                    uli101-l6-ssayed.txt
+days       mine          uli101-L10-ssayed.txt  uli101-L7-ssayed.txt
+dog        pizza         uli101-L1-ssayed.txt   uli101-L8-ssayed.txt
+first      practice      uli101-L2-ssayed.txt   uli101-L9-ssayed.txt
+first.bak  practice.txt  uli101-L3-ssayed.txt
+[ssayed10@mtrx-node01pd ~]$ unalias ls
+[ssayed10@mtrx-node01pd ~]$ ls
+aa bb      hi.file       public_html            uli101-L4-ssayed.txt
+aa bb.bak  ls.big        shabnoor               uli101-L5-ssayed.txt
+cptobak    ls.out        short                  uli101-L6-ssayed.txt
+date       ls.output     two                    uli101-l6-ssayed.txt
+days       mine          uli101-L10-ssayed.txt  uli101-L7-ssayed.txt
+dog        pizza         uli101-L1-ssayed.txt   uli101-L8-ssayed.txt
+first      practice      uli101-L2-ssayed.txt   uli101-L9-ssayed.txt
+first.bak  practice.txt  uli101-L3-ssayed.txt
+[ssayed10@mtrx-node01pd ~]$ alias ~/ .bashrc
+bash: alias: /home/ssayed10/: not found
+bash: alias: .bashrc: not found
+[ssayed10@mtrx-node01pd ~]$ welcome () { echo "Welcome to my computer." ; }
+[ssayed10@mtrx-node01pd ~]$ welcome
+Welcome to my computer.
+[ssayed10@mtrx-node01pd ~]$ function long () { >date
+> ls -l
+> }
+[ssayed10@mtrx-node01pd ~]$ long
+total 348
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:39 aa bb
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:44 aa bb.bak
+-rwxr--r-- 1 ssayed10 users   146 Nov  7 20:43 cptobak
+-rw-r--r-- 1 ssayed10 users     0 Nov 14 22:03 date
+-rw-r--r-- 1 ssayed10 users    57 Oct 17 19:12 days
+-r--r--r-- 1 ssayed10 users     0 Oct  3 14:05 dog
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:08 first
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:37 first.bak
+-rw-r--r-- 1 ssayed10 users     9 Oct 17 19:09 hi.file
+-rw-r--r-- 1 ssayed10 users     0 Oct 17 19:14 ls.big
+-rw-r--r-- 1 ssayed10 users  1899 Oct 17 19:10 ls.out
+-rw-r--r-- 1 ssayed10 users   975 Oct 17 19:10 ls.output
+-rwxrwxrwx 1 ssayed10 users   152 Nov  7 21:09 mine
+-rw-r--r-- 1 ssayed10 users   230 Oct 24 19:31 pizza
+-rw-r--r-- 1 ssayed10 users    51 Oct  2 13:26 practice
+-rw-r--r-- 1 ssayed10 users 24576 Oct 26 13:27 practice.txt
+drwx---r-x 3 ssayed10 users    39 May  2  2018 public_html
+-rw-r--r-- 1 ssayed10 users    67 Oct 26 13:25 shabnoor
+-rwxr--r-- 1 ssayed10 users    89 Nov  7 20:02 short
+drwxr-xr-x 2 ssayed10 users    44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users 16384 Nov 15 13:41 uli101-L10-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   797 Oct  9 01:58 uli101-L6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  5726 Oct 17 19:14 uli101-l6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16792 Oct 24 19:31 uli101-L7-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 64035 Nov  7 20:44 uli101-L8-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 30665 Nov 14 22:15 uli101-L9-ssayed.txt
+[ssayed10@mtrx-node01pd ~]$ long ~/ .bash_profile
+total 348
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:39 aa bb
+-rw-r--r-- 1 ssayed10 users     0 Nov  7 20:44 aa bb.bak
+-rwxr--r-- 1 ssayed10 users   146 Nov  7 20:43 cptobak
+-rw-r--r-- 1 ssayed10 users     0 Nov 14 22:03 date
+-rw-r--r-- 1 ssayed10 users    57 Oct 17 19:12 days
+-r--r--r-- 1 ssayed10 users     0 Oct  3 14:05 dog
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:08 first
+-rwxr--r-- 1 ssayed10 users    83 Nov  7 20:37 first.bak
+-rw-r--r-- 1 ssayed10 users     9 Oct 17 19:09 hi.file
+-rw-r--r-- 1 ssayed10 users     0 Oct 17 19:14 ls.big
+-rw-r--r-- 1 ssayed10 users  1899 Oct 17 19:10 ls.out
+-rw-r--r-- 1 ssayed10 users   975 Oct 17 19:10 ls.output
+-rwxrwxrwx 1 ssayed10 users   152 Nov  7 21:09 mine
+-rw-r--r-- 1 ssayed10 users   230 Oct 24 19:31 pizza
+-rw-r--r-- 1 ssayed10 users    51 Oct  2 13:26 practice
+-rw-r--r-- 1 ssayed10 users 24576 Oct 26 13:27 practice.txt
+drwx---r-x 3 ssayed10 users    39 May  2  2018 public_html
+-rw-r--r-- 1 ssayed10 users    67 Oct 26 13:25 shabnoor
+-rwxr--r-- 1 ssayed10 users    89 Nov  7 20:02 short
+drwxr-xr-x 2 ssayed10 users    44 Oct  7 13:34 two
+-rw-r--r-- 1 ssayed10 users 16384 Nov 15 13:41 uli101-L10-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16120 Oct  1 17:44 uli101-L1-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 42475 Oct  2 13:49 uli101-L2-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 10516 Oct  3 13:45 uli101-L3-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  1258 Oct  3 14:09 uli101-L4-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 56048 Oct  7 13:49 uli101-L5-ssayed.txt
+-rw-r--r-- 1 ssayed10 users   797 Oct  9 01:58 uli101-L6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users  5726 Oct 17 19:14 uli101-l6-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 16792 Oct 24 19:31 uli101-L7-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 64035 Nov  7 20:44 uli101-L8-ssayed.txt
+-rw-r--r-- 1 ssayed10 users 30665 Nov 14 22:15 uli101-L9-ssayed.txt
+[ssayed10@mtrx-node01pd ~]$ exit
+exit
+Script done, file is uli101-L10-ssayed.txt

@@ -1,0 +1,234 @@
+Script started on Tue 01 Oct 2019 05:38:24 PM EDT
+]0;ssayed10@mtrx-node02pd:~[?1034h[ssayed10@mtrx-node02pd ~]$ whoami
+ssayed10
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ date
+Tue Oct  1 17:38:46 EDT 2019
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ echo 0
+0
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ echo 0[Ko[K$0
+bash
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ thia [K[Ks ia [K[Ks a whole line of random words [K.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kthis is a line[K[K[ssayed10@mtrx-node02pd ~]$ this is a linelinelinelineline[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kman man
+[?1049h[?1h=MAN(1)                                                                   Manual pager utils                                                                  MAN(1)[m
+[m
+[1mNAME[0m[m
+       man - an interface to the on-line reference manuals[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mman[0m  [[1m-C[0m [4mfile[24m] [[1m-d[0m] [[1m-D[0m] [[1m--warnings[0m[=[4mwarnings[24m]] [[1m-R[0m [4mencoding[24m] [[1m-L[0m [4mlocale[24m] [[1m-m[0m [4msystem[24m[,...]] [[1m-M[0m [4mpath[24m] [[1m-S[0m [4mlist[24m] [[1m-e[0m [4mextension[24m] [[1m-i[0m|[1m-I[0m] [[1m--regex[0m|[1m--wildcard[0m][m
+       [[1m--names-only[0m] [[1m-a[0m] [[1m-u[0m] [[1m--no-subpages[0m] [[1m-P[0m [4mpager[24m] [[1m-r[0m [4mprompt[24m] [[1m-7[0m] [[1m-E[0m [4mencoding[24m] [[1m--no-hyphenation[0m] [[1m--no-justification[0m]  [[1m-p[0m  [4mstring[24m]  [[1m-t[0m]  [[1m-T[0m[[4mdevice[24m]][m
+       [[1m-H[0m[[4mbrowser[24m]] [[1m-X[0m[[4mdpi[24m]] [[1m-Z[0m] [[[4msection[24m] [4mpage[24m ...] ...[m
+       [1mman[0m [1m-k[0m [[4mapropos[24m [4moptions[24m] [4mregexp[24m ...[m
+       [1mman[0m [1m-K[0m [[1m-w[0m|[1m-W[0m] [[1m-S[0m [4mlist[24m] [[1m-i[0m|[1m-I[0m] [[4m--regex[24m] [[4msection[24m] [4mterm[24m ...[m
+       [1mman[0m [1m-f[0m [[4mwhatis[24m [4moptions[24m] [4mpage[24m ...[m
+       [1mman[0m  [1m-l[0m  [[1m-C[0m  [4mfile[24m]  [[1m-d[0m]  [[1m-D[0m]  [[1m--warnings[0m[=[4mwarnings[24m]]  [[1m-R[0m  [4mencoding[24m] [[1m-L[0m [4mlocale[24m] [[1m-P[0m [4mpager[24m] [[1m-r[0m [4mprompt[24m] [[1m-7[0m] [[1m-E[0m [4mencoding[24m] [[1m-p[0m [4mstring[24m] [[1m-t[0m] [[1m-T[0m[[4mdevice[24m]][m
+       [[1m-H[0m[[4mbrowser[24m]] [[1m-X[0m[[4mdpi[24m]] [[1m-Z[0m] [4mfile[24m ...[m
+       [1mman[0m [1m-w[0m|[1m-W[0m [[1m-C[0m [4mfile[24m] [[1m-d[0m] [[1m-D[0m] [4mpage[24m ...[m
+       [1mman[0m [1m-c[0m [[1m-C[0m [4mfile[24m] [[1m-d[0m] [[1m-D[0m] [4mpage[24m ...[m
+       [1mman[0m [[1m-?V[0m][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mman[0m is the system's manual pager. Each [4mpage[24m argument given to [1mman[0m is normally the name of a program, utility or function.  The [4mmanual[24m [4mpage[24m  associated  with[m
+       each of these arguments is then found and displayed. A [4msection[24m, if provided, will direct [1mman[0m to look only in that [4msection[24m of the manual.  The default action[m
+       is to search in all of the available [4msections[24m, following a pre-defined order and to show only the first [4mpage[24m found, even if [4mpage[24m exists in several [4msections[24m.[m
+[m
+       The table below shows the [4msection[24m numbers of the manual followed by the types of pages they contain.[m
+[m
+       1   Executable programs or shell commands[m
+       2   System calls (functions provided by the kernel)[m
+       3   Library calls (functions within program libraries)[m
+       4   Special files (usually found in [4m/dev[24m)[m
+       5   File formats and conventions eg [4m/etc/passwd[24m[m
+       6   Games[m
+       7   Miscellaneous (including macro packages and conventions), e.g. [1mman[0m(7), [1mgroff[0m(7)[m
+       8   System administration commands (usually only for root)[m
+       9   Kernel routines [Non standard][m
+[m
+       A manual [4mpage[24m consists of several sections.[m
+[m
+       Conventional section names include [1mNAME[0m, [1mSYNOPSIS[0m, [1mCONFIGURATION[0m, [1mDESCRIPTION[0m, [1mOPTIONS[0m, [1mEXIT[0m [1mSTATUS[0m, [1mRETURN[0m [1mVALUE[0m,  [1mERRORS[0m,  [1mENVIRONMENT[0m,  [1mFILES[0m,  [1mVERSIONS[0m,[m
+       [1mCONFORMING[0m [1mTO[0m, [1mNOTES[0m, [1mBUGS[0m, [1mEXAMPLE[0m, [1mAUTHORS[0m, and [1mSEE[0m [1mALSO[0m.[m
+[m
+       The following conventions apply to the [1mSYNOPSIS[0m section and can be used as a guide in other sections.[m
+[m
+       [1mbold[0m [1mtext[0m          type exactly as shown.[m
+[7m Manual page man(1) line 1 (press h for help or q to quit)[27m[K[K       [4mitalic[24m [4mtext[24m        replace with appropriate argument.[m
+       [[1m-abc[0m]             any or all arguments within [ ] are optional.[m
+       [1m-a[0m|[1m-b[0m              options delimited by | cannot be used together.[m
+       [4margument[24m ...       [4margument[24m is repeatable.[m
+       [[4mexpression[24m] ...   entire [4mexpression[24m within [ ] is repeatable.[m
+[m
+       Exact  rendering may vary depending on the output device.  For instance, man will usually not be able to render italics when running in a terminal, and will[m
+       typically use underlined or coloured text instead.[m
+[m
+       The command or function illustration is a pattern that should match all possible invocations.  In some cases it is advisable to illustrate several exclusive[m
+       invocations as is shown in the [1mSYNOPSIS[0m section of this manual page.[m
+[m
+[1mEXAMPLES[0m[m
+       [1mman[0m [4mls[24m[m
+           Display the manual page for the [4mitem[24m (program) [4mls[24m.[m
+[m
+       [1mman[0m [1m-a[0m [4mintro[24m[m
+           Display, in succession, all of the available [4mintro[24m manual pages contained within the manual.  It is possible to quit between successive displays or skip[m
+           any of them.[m
+[m
+       [1mman[0m [1m-t[0m [4malias[24m | [4mlpr[24m [4m-Pps[24m[m
+           Format the manual page referenced by `[4malias[24m', usually a shell manual page, into the default [1mtroff[0m or [1mgroff[0m format and pipe it to the printer  named  [4mps[24m.[m
+           The default output for [1mgroff[0m is usually PostScript.  [1mman[0m [1m--help[0m should advise as to which processor is bound to the [1m-t[0m option.[m
+[m
+       [1mman[0m [1m-l[0m [1m-T[0m[4mdvi[24m [4m./foo.1x.gz[24m [1m>[0m [4m./foo.1x.dvi[24m[m
+           This  command will decompress and format the nroff source manual page [4m./foo.1x.gz[24m into a [1mdevice[0m [1mindependent[0m [1m(dvi)[0m file.  The redirection is necessary as[m
+           the [1m-T[0m flag causes output to be directed to [1mstdout[0m with no pager.  The output could be viewed with a program such as  [1mxdvi[0m  or  further  processed  into[m
+           PostScript using a program such as [1mdvips.[0m[m
+[m
+       [1mman[0m [1m-k[0m [4mprintf[24m[m
+           Search  the  short  descriptions  and  manual  page  names  for  the  keyword [4mprintf[24m as regular expression.  Print out any matches.  Equivalent to [1mapro‐[0m[m
+           [1mpos[0m [1m-r[0m [4mprintf[24m[1m.[0m[m
+[m
+       [1mman[0m [1m-f[0m [4msmail[24m[m
+           Lookup the manual pages referenced by [4msmail[24m and print out the short descriptions of any found.  Equivalent to [1mwhatis[0m [1m-r[0m [4msmail[24m[1m.[0m[m
+[m
+[1mOVERVIEW[0m[m
+       Many options are available to [1mman[0m in order to give as much flexibility as possible to the user.  Changes can be made to the search path, section order, out‐[m
+       put processor, and other behaviours and operations detailed below.[m
+[m
+       If  set,  various  environment  variables are interrogated to determine the operation of [1mman[0m.  It is possible to set the `catch all' variable $[1mMANOPT[0m to any[m
+       string in command line format with the exception that any spaces used as part of an option's argument must be escaped (preceded by a backslash).   [1mman[0m  will[m
+       parse  $[1mMANOPT[0m prior to parsing its own command line.  Those options requiring an argument will be overridden by the same options found on the command line.[m
+[7m Manual page man(1) line 48 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ cat --help
+Usage: cat [OPTION]... [FILE]...
+Concatenate FILE(s), or standard input, to standard output.
+
+  -A, --show-all           equivalent to -vET
+  -b, --number-nonblank    number nonempty output lines, overrides -n
+  -e                       equivalent to -vE
+  -E, --show-ends          display $ at end of each line
+  -n, --number             number all output lines
+  -s, --squeeze-blank      suppress repeated empty output lines
+  -t                       equivalent to -vT
+  -T, --show-tabs          display TAB characters as ^I
+  -u                       (ignored)
+  -v, --show-nonprinting   use ^ and M- notation, except for LFD and TAB
+      --help     display this help and exit
+      --version  output version information and exit
+
+With no FILE, or when FILE is -, read standard input.
+
+Examples:
+  cat f - g  Output f's contents, then standard input, then g's contents.
+  cat        Copy standard input to standard output.
+
+GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+For complete documentation, run: info coreutils 'cat invocation'
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$  cp --help | lesss[K
+[?1049h[?1h=Usage: cp [OPTION]... [-T] SOURCE DEST
+  or:  cp [OPTION]... SOURCE... DIRECTORY
+  or:  cp [OPTION]... -t DIRECTORY SOURCE...
+Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --archive                same as -dR --preserve=all
+      --attributes-only        don't copy the file data, just the attributes
+      --backup[=CONTROL]       make a backup of each existing destination file
+  -b                           like --backup but does not accept an argument
+      --copy-contents          copy contents of special files when recursive
+  -d                           same as --no-dereference --preserve=links
+  -f, --force                  if an existing destination file cannot be
+                                 opened, remove it and try again (this option
+                                 is ignored when the -n option is also used)
+  -i, --interactive            prompt before overwrite (overrides a previous -n
+                                  option)
+  -H                           follow command-line symbolic links in SOURCE
+  -l, --link                   hard link files instead of copying
+  -L, --dereference            always follow symbolic links in SOURCE
+  -n, --no-clobber             do not overwrite an existing file (overrides
+                                 a previous -i option)
+  -P, --no-dereference         never follow symbolic links in SOURCE
+  -p                           same as --preserve=mode,ownership,timestamps
+      --preserve[=ATTR_LIST]   preserve the specified attributes (default:
+                                 mode,ownership,timestamps), if possible
+                                 additional attributes: context, links, xattr,
+                                 all
+  -c                           deprecated, same as --preserve=context
+      --no-preserve=ATTR_LIST  don't preserve the specified attributes
+      --parents                use full source file name under DIRECTORY
+  -R, -r, --recursive          copy directories recursively
+      --reflink[=WHEN]         control clone/CoW copies. See below
+      --remove-destination     remove each existing destination file before
+                                 attempting to open it (contrast with --force)
+      --sparse=WHEN            control creation of sparse files. See below
+      --strip-trailing-slashes  remove any trailing slashes from each SOURCE
+                                 argument
+  -s, --symbolic-link          make symbolic links instead of copying
+  -S, --suffix=SUFFIX          override the usual backup suffix
+  -t, --target-directory=DIRECTORY  copy all SOURCE arguments into DIRECTORY
+  -T, --no-target-directory    treat DEST as a normal file
+  -u, --update                 copy only when the SOURCE file is newer
+:[K[K                                 than the destination file or when the
+                                 destination file is missing
+  -v, --verbose                explain what is being done
+  -x, --one-file-system        stay on this file system
+  -Z                           set SELinux security context of destination
+                                 file to default type
+      --context[=CTX]          like -Z, or if CTX is specified then set the
+                                 SELinux or SMACK security context to CTX
+      --help     display this help and exit
+      --version  output version information and exit
+
+By default, sparse SOURCE files are detected by a crude heuristic and the
+corresponding DEST file is made sparse as well.  That is the behavior
+selected by --sparse=auto.  Specify --sparse=always to create a sparse DEST
+file whenever the SOURCE file contains a long enough sequence of zero bytes.
+Use --sparse=never to inhibit creation of sparse files.
+
+When --reflink[=always] is specified, perform a lightweight copy, where the
+data blocks are copied only when modified.  If this is not possible the copy
+fails, or if --reflink=auto is specified, fall back to a standard copy.
+
+The backup suffix is '~', unless set with --suffix or SIMPLE_BACKUP_SUFFIX.
+The version control method may be selected via the --backup option or through
+the VERSION_CONTROL environment variable.  Here are the values:
+
+  none, off       never make backups (even if --backup is given)
+  numbered, t     make numbered backups
+  existing, nil   numbered if numbered backups exist, simple otherwise
+  simple, never   always make simple backups
+
+As a special case, cp makes a backup of SOURCE when the force and backup
+options are given and SOURCE and DEST are the same name for an existing,
+regular file.
+
+GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+For complete documentation, run: info coreutils 'cp invocation'
+[7m(END)[27m[K[K[?1l>[?1049l]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ help echo
+echo: echo [-neE] [arg ...]
+    Write arguments to the standard output.
+    
+    Display the ARGs on the standard output followed by a newline.
+    
+    Options:
+      -n	do not append a newline
+      -e	enable interpretation of the following backslash escapes
+      -E	explicitly suppress interpretation of backslash escapes
+    
+    `echo' interprets the following backslash-escaped characters:
+      \a	alert (bell)
+      \b	backspace
+      \c	suppress further output
+      \e	escape character
+      \f	form feed
+      \n	new line
+      \r	carriage return
+      \t	horizontal tab
+      \v	vertical tab
+      \\	backslash
+      \0nnn	the character whose ASCII code is NNN (octal).  NNN can be
+    	0 to 3 octal digits
+      \xHH	the eight-bit character whose value is HH (hexadecimal).  HH
+    	can be one or two hex digits
+    
+    Exit Status:
+    Returns success unless a write error occurs.
+]0;ssayed10@mtrx-node02pd:~[ssayed10@mtrx-node02pd ~]$ exit
+exit
+
+Script done on Tue 01 Oct 2019 05:44:04 PM EDT
